@@ -1,210 +1,332 @@
-*{
+/* -------------------- Global -------------------- */
+* {
   padding: 0;
   margin: 0;
   box-sizing: border-box;
   font-family: "Poppins", sans-serif;
 }
-.blue{
+
+.blue {
   color: #5DA9DD;
 }
-/* Header */
 
-header{
+/* -------------------- Header -------------------- */
+header {
   display: flex;
   padding: 30px;
   background-color: #184A6C;
   color: #fff;
   justify-content: space-between;
   align-items: center;
+  flex-wrap: wrap;
 }
-.header-navigation{
+
+.header-logo img {
+  height: 2.5rem;
+}
+
+.header-navigation {
   display: flex;
   gap: 15px;
   align-items: center;
+  flex-wrap: wrap;
+  justify-content: center;
 }
-.upper-navigation{
+
+.upper-navigation {
   display: flex;
   list-style: none;
   gap: 15px;
-  
+  flex-wrap: wrap;
 }
-.Link{
-  font-weight: bold;
-  transition: 0.3s ease-in-out;
-}
-.Link:hover{
-  transform: scale(1.05);
-}
-.header-logo img{
-  height: 2.5rem;
-}
-.header-navigation img{
-  height: 2rem;
-}
-select{
-  color: #fff;
-  background-color: #5DA9DD;
-  border: none;
-  padding: 5px;
-  border-radius: 25px;
-}
-option{
-  border: #5DA9DD;
-}
-.Link{
+
+.Link {
   text-decoration: none;
   font-weight: bold;
   color: #fff;
+  transition: 0.3s ease-in-out;
 }
 
-/* Home */
-.home{
+.Link:hover {
+  transform: scale(1.05);
+}
+
+.header-navigation img {
+  height: 2rem;
+}
+
+select {
+  color: #fff;
+  background-color: #5DA9DD;
+  border: none;
+  padding: 5px 10px;
+  border-radius: 25px;
+  cursor: pointer;
+}
+
+/* -------------------- Home -------------------- */
+.home {
   padding: 30px;
 }
-.hero{
+
+.hero {
   display: flex;
   justify-content: center;
   align-items: center;
   gap: 15px;
+  flex-wrap: wrap;
+  
 }
-.hero h1{
+
+.hero h1 {
   width: 31.25rem;
   font-size: 22px;
 }
 
-/* Variations */
-.variations{
+/* -------------------- Variations -------------------- */
+.variations {
   display: flex;
   flex-direction: column;
   padding: 30px;
   justify-content: center;
   align-items: center;
+  
 }
-.variations h1{
-  text-align: center;
-}
-.variations-container{
+
+.variations-container {
   padding: 15px;
+  width: 100%;
+  max-width: 900px;
 }
-.variation-card{
+
+.variation-card {
   margin-top: 15px;
   background-color: #D4EEF9;
   padding: 25px;
   border-radius: 15px;
 }
-.variation-card p{
+
+.variation-card p {
   font-weight: bold;
   font-size: 18px;
 }
 
-/* Requirements */
-.requirements{
+/* -------------------- Requirements -------------------- */
+.requirements {
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
   padding: 25px;
+  
 }
-.requirements-main{
+
+.requirements-main {
   display: flex;
   gap: 15px;
   justify-content: center;
   align-items: center;
   margin-top: 15px;
+  flex-wrap: wrap;
 }
-.requirements-container{
+
+.requirements-container {
   display: grid;
-  grid-template-columns: repeat(2, 3fr);
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
   gap: 15px;
+  width: 100%;
+  max-width: 900px;
 }
-.requirement-card{
+
+.requirement-card {
   padding: 15px;
   background-color: #D4EEF9;
   color: #184A6C;
   border-radius: 25px;
 }
 
-/* Faculty */
-.faculty{
+/* -------------------- Faculty -------------------- */
+.faculty {
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
   padding: 25px;
+  
 }
-.faculty-main{
+
+.faculty-main {
   display: flex;
   gap: 15px;
   align-items: center;
   justify-content: center;
   padding: 25px;
+  flex-wrap: wrap;
 }
-.faculty-main h2{
-  width: 400px;
+
+.faculty-main h2 {
+  max-width: 400px;
   font-size: 26px;
   font-weight: bold;
   color: #5DA9DD;
-  text-align: center;
+  
 }
 
-/* Location */
-.location{
+/* -------------------- Location -------------------- */
+.location {
   display: flex;
   gap: 15px;
   padding: 30px;
   justify-content: center;
   align-items: center;
+  flex-wrap: wrap;
+  
 }
-.info{
+
+.info {
   color: #5DA9DD;
   font-weight: bold;
   font-size: 22px;
-  width: 25rem;
-}
-.map{
-  width: 45rem;
+  max-width: 25rem;
 }
 
+.map {
+  width: 100%;
+  max-width: 45rem;
+  border-radius: 15px;
+}
 
-
-/* Footer */
-footer{
+/* -------------------- Footer -------------------- */
+footer {
   display: flex;
   justify-content: space-between;
   background-color: #184A6C;
   color: #fff;
   font-weight: bold;
   padding: 30px;
+  flex-wrap: wrap;
+  gap: 20px;
+  
 }
-.line{
+
+.line {
   width: 1px;
   height: 200px;
   background-color: #fff;
 }
-.heading{
+
+.heading {
   font-size: 22px;
 }
-.fast-links{
+
+.fast-links {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
+  gap: 10px;
 }
-.footer-navigation{
+
+.footer-navigation {
   list-style: none;
 }
-.footer-navigation .Link{
+
+.footer-navigation .Link {
   display: flex;
   flex-direction: column;
   margin-top: 10px;
 }
-.faq{
+
+.faq {
   width: 200px;
 }
-footer p, footer li{
+
+footer p, footer li {
   margin-top: 10px;
 }
-.social-media{
-  left: 0;
-}
-.social-media img{
+
+.social-media img {
   margin-top: 10px;
+  width: 1.8rem;
+  height: 1.8rem;
+}
+
+/* -------------------- Responsive Design -------------------- */
+
+/* Tablets (≤992px) */
+@media (max-width: 992px) {
+  header {
+    padding: 20px;
+  }
+
+  .hero h1 {
+    width: 100%;
+    font-size: 20px;
+  }
+
+  .faculty-main h2 {
+    font-size: 22px;
+  }
+
+  .map {
+    max-width: 100%;
+  }
+
+  footer {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .line {
+    display: none;
+  }
+}
+
+/* Mobile (≤600px) */
+@media (max-width: 600px) {
+  header {
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  .header-navigation {
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  .hero {
+    flex-direction: column;
+    
+  }
+
+  .hero h1 {
+    font-size: 18px;
+  }
+
+  .variation-card p {
+    font-size: 16px;
+  }
+
+  .faculty-main h2 {
+    font-size: 20px;
+  }
+
+  .requirements-container {
+    grid-template-columns: 1fr;
+  }
+
+  .info {
+    font-size: 18px;
+  }
+
+  footer {
+    padding: 20px;
+  }
+
+  .heading {
+    font-size: 18px;
+  }
+
+  .social-media img {
+    width: 1.5rem;
+    height: 1.5rem;
+  }
 }
