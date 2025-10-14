@@ -286,7 +286,9 @@ footer p, footer li {
     width: 100%;
     font-size: 20px;
   }
-
+  .hero img{
+    width: 20rem;
+  }
   .faculty-main h2 {
     font-size: 22px;
   }
@@ -301,12 +303,17 @@ footer p, footer li {
   }
 
   .line {
-    display: none;
+    width: 18rem;
+    height: 1px;
   }
 }
 
 /* Mobile (≤600px) */
 @media (max-width: 600px) {
+  body{
+    overflow-x: hidden;
+    width: auto;
+  }
   header {
     flex-direction: column;
     gap: 10px;
@@ -315,6 +322,10 @@ footer p, footer li {
   .header-navigation {
     flex-direction: column;
     gap: 10px;
+  }
+  .upper-navigation{
+    display: flex;
+    flex-direction: column;
   }
 
   .hero {
@@ -333,9 +344,19 @@ footer p, footer li {
   .faculty-main h2 {
     font-size: 20px;
   }
-
+  .requirements-main{
+        justify-content: center;
+    align-items: center;
+  }
   .requirements-container {
     grid-template-columns: 1fr;
+
+  }
+  .requirements-main img,  .faculty-main img{
+    width: 20rem;
+  }
+  .requirement-card{
+    width: 20rem;
   }
 
   .info {
@@ -344,8 +365,13 @@ footer p, footer li {
 
   footer {
     padding: 20px;
+    display: flex;
+    flex-direction: column;
   }
-
+  .fast-links{
+    display: flex;
+    flex-direction: column;
+  }
   .heading {
     font-size: 18px;
   }
