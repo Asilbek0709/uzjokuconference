@@ -259,6 +259,21 @@ footer p, footer li {
   height: 1.8rem;
 }
 
+/* Theme */
+.themeSwitcher{
+  background-color: #184A6C;
+  border: none;
+}
+.dark {
+  background-color: #121212;
+  color: #ffffff;
+}
+.themeSwitcher {
+  transition: transform 0.5s ease, opacity 0.3s;
+}
+.themeSwitcher:hover {
+  transform: rotate(360deg);
+}
 /* -------------------- Responsive Design -------------------- */
 
 /* Tablets (≤992px) */
