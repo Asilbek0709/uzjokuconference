@@ -1,5 +1,7 @@
 import "./globals.css";
 import Link from "next/link";
+import { ThemeProvider } from "next-themes";
+import ThemeSwitcher from "./themeSwitcher";
 
 export const metadata = {
   title: "Create Next App",
@@ -7,9 +9,12 @@ export const metadata = {
 };
 
 export default function RootLayout({ children }) {
+
+
   return (
     <html lang="uz">
       <body>
+        <ThemeProvider attribute="class" defaultTheme="light">
                 <header>
             <div className="header-logo">
                 <img src="/image/logo.png" alt="" />
@@ -26,10 +31,12 @@ export default function RootLayout({ children }) {
                     <option value="">RU</option>
                     <option value="">EN</option>
                 </select>
-                <img src="/image/sun.png" alt="" />
+                <ThemeSwitcher />              
             </div>
         </header>
-        {children}
+        
+            {children}
+        
         <footer>
             <div className="footer-logo">
                 <img src="/image/logo.png" alt="" />
@@ -61,6 +68,7 @@ export default function RootLayout({ children }) {
                 <img src="/image/inst.png" alt="" />
             </div>
         </footer>
+        </ThemeProvider>
       </body>
     </html>
   );

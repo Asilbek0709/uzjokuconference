@@ -110,6 +110,16 @@ select {
   font-weight: bold;
   font-size: 18px;
 }
+.conference-page{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 30px;
+}
+.conference-page img{
+  width: auto;
+}
 
 /* -------------------- Requirements -------------------- */
 .requirements {
