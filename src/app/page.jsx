@@ -1,16 +1,28 @@
+"use client"
+
 import Image from "next/image";
 import styles from "./page.module.css";
 import Hero from 'next/image'
 import Requirements from 'next/image'
+import Aos from "aos";
+import { useEffect } from "react";
+import "aos/dist/aos.css";
 
 export default function Home() {
+
+    useEffect(() => {
+      Aos.init({
+        duration: 3000,
+      })
+    }, [])
+
   return (
-      <div className="home">
-        <div className="hero">
+      <div className="home"  >
+        <div className="hero" data-aos="fade">
           <h1>O‘zbek tiliga Davlat tili maqomi berilganining 36 yilligi munosabati hamda <span className="blue">O‘zbekiston Respublikasi Prezidentining 2019-yil 21-oktyabrdagi PF-5850-son</span> “O‘zbek tilining Davlat tili sifatidagi nufuzi va mavqeyini tubdan oshirish chora-tadbirlari to‘g‘risida”gi, 2020-yil 20-oktyabrdagi PF-6084-son “Mamlakatimizda o‘zbek tilini yanada rivojlantirish va til siyosatini takomillashtirish chora-tadbirlari to‘g‘risida”gi Farmonida belgilangan vazifalar ijrosini ta’minlash maqsadida O‘zbekiston jurnalistika va ommaviy kommunikatsiyalar universitetida 2025-yil 15-oktyabr kuni <span className="blue">“TIL, ADABIYOT VA JURNALISTIKA TA’LIMI: MUAMMO, YECHIM VA ISTIQBOLLAR”</span> mavzusida xalqaro ilmiy-amaliy konferensiya o‘tkaziladi.</h1>
           <img src="/image/hero.png" alt="" />
         </div>
-        <div className="variations">
+        <div className="variations" data-aos="fade-down">
           <h1> <span className="blue">Anjuman materiallari to‘plamiga quyidagi shо’balar asosida ilmiy maqolalar qabul qilinadi</span> </h1>
           <div className="variations-container">
             <div className="variation-card"><p>Filologiya ta’limida tilshunoslikning taraqqiyot tendensiyalari.</p></div>
@@ -20,7 +32,7 @@ export default function Home() {
             <div className="variation-card"><p>Nutq ta’sirchanligini oshirishda notiqlik san’ati, nutq madaniyati va muloqot psixologiyasi.</p></div>
           </div>
         </div>
-        <div className="requirements">
+        <div className="requirements" data-aos="zoom-in">
           <h1><span className="blue">Tezislarga qo`yiladigan texnik talablar</span></h1>
           <div className="requirements-main">
             <div className="requirements-container">
@@ -34,19 +46,19 @@ export default function Home() {
             <img src="/image/requirements.png" alt="" />
           </div>
         </div>
-        <div className="faculty">
-          <h1><span className="blue">Konferensiya tashkiliy qo‘mitasi</span></h1>
+        <div className="faculty" >
+          <h1 data-aos="fade"><span className="blue">Konferensiya tashkiliy qo‘mitasi</span></h1>
           <div className="faculty-main">
-            <h2>Xalqaro munosabatlar va ijtimoiy-gumanitar fanlar fakulteti, O‘zbek tili va adabiyoti kafedrasi</h2>
-            <img src="/image/faculty.png" alt="" />
+            <h2 data-aos="fade-right">Xalqaro munosabatlar va ijtimoiy-gumanitar fanlar fakulteti, O‘zbek tili va adabiyoti kafedrasi</h2>
+            <img src="/image/faculty.png" alt="" data-aos="fade-left" />
           </div>
         </div>
         <div className="location">
-          <div className="info">
+          <div className="info" data-aos='slide-up'>
             <p>Manzil: <br /> O‘zJOKU Xalqaro munosabatlar va ijtimoiy-gumanitar fanlar fakulteti O‘zbek tili va adabiyoti kafedrasi, Toshkent shahri, Markaz 5/Qiyot 88.</p>
             <p>Murojaat uchun <br /> Nargiza Mirzayeva – <br />+998 93 561 22 62 <br /> Munira Nazarova – <br />+998 90 944 36 16 </p>
           </div>
-              <div className="map" style={{ position: "relative", overflow: "hidden" }}>
+              <div className="map" style={{ position: "relative", overflow: "hidden" }} data-aos="fade-left">
                     <a
                       href="https://yandex.uz/maps/org/34137449087/?utm_medium=mapframe&utm_source=maps"
                       style={{
