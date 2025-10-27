@@ -20,6 +20,7 @@ export default function RootLayout({ children }) {
 
     const pathname = usePathname();
     const isHomePage = pathname === "/";
+    const [menuOpen, setMenuOpen] = useState(false);
 
     const [scrolled, setScrolled] = useState(false)
 
@@ -39,18 +40,25 @@ export default function RootLayout({ children }) {
                 <img src="/image/logo.png" alt="" />
             </div>
             <div className="header-navigation">
-                <ul className="upper-navigation">
-                    <Link href="/" className="Link">Bosh sahifa</Link>
-                    <Link href="/conference" className="Link">Anjuman</Link>
-                    <Link href="/gallery" className="Link">Galereya</Link>
-                    <Link href="/contact" className="Link">Aloqa</Link>
-                </ul>
+                <div className={`burger ${menuOpen ? "active" : ""}`} onClick={() => setMenuOpen(!menuOpen)}>
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </div>
+                <nav className={`nav ${menuOpen ? "open" : ""}`}>
+                    <ul className="upper-navigation">
+                        <Link href="/" className="Link" onClick={() => setMenuOpen(false)}>Bosh sahifa</Link>
+                        <Link href="/conference" className="Link" onClick={() => setMenuOpen(false)}>Anjuman</Link>
+                        <Link href="/gallery" className="Link" onClick={() => setMenuOpen(false)}>Galereya</Link>
+                        <Link href="/contact" className="Link" onClick={() => setMenuOpen(false)}>Aloqa</Link>
+                    </ul>
                 <select name="" id="">
                     <option value="">UZ</option>
                     <option value="">RU</option>
                     <option value="">EN</option>
                 </select>
-                <ThemeSwitcher />              
+                <ThemeSwitcher /> 
+                </nav>             
             </div>
         </header>
         
