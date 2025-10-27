@@ -106,6 +106,12 @@ select {
   transform: rotate(-45deg) translateY(-8px);
 }
 
+nav{
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
 /* -------------------- Home -------------------- */
 .intro{
   height: 100vh;
