@@ -18,6 +18,12 @@ export default function Home() {
 
   return (
       <div className="home"  >
+        <div className="intro" data-aos="fade-up">
+          <div className="overlay">
+            <h1 data-aos="fade-left">TIL, ADABIYOT VA JURNALISTIKA TA’LIMI: MUAMMO, YECHIM VA ISTIQBOLLAR</h1>
+            <button className="participate" data-aos="fade-up">Ishtirok etish</button>
+          </div>
+        </div>
         <div className="hero" data-aos="fade">
           <h1>O‘zbek tiliga Davlat tili maqomi berilganining 36 yilligi munosabati hamda <span className="blue">O‘zbekiston Respublikasi Prezidentining 2019-yil 21-oktyabrdagi PF-5850-son</span> “O‘zbek tilining Davlat tili sifatidagi nufuzi va mavqeyini tubdan oshirish chora-tadbirlari to‘g‘risida”gi, 2020-yil 20-oktyabrdagi PF-6084-son “Mamlakatimizda o‘zbek tilini yanada rivojlantirish va til siyosatini takomillashtirish chora-tadbirlari to‘g‘risida”gi Farmonida belgilangan vazifalar ijrosini ta’minlash maqsadida O‘zbekiston jurnalistika va ommaviy kommunikatsiyalar universitetida 2025-yil 15-oktyabr kuni <span className="blue">“TIL, ADABIYOT VA JURNALISTIKA TA’LIMI: MUAMMO, YECHIM VA ISTIQBOLLAR”</span> mavzusida xalqaro ilmiy-amaliy konferensiya o‘tkaziladi.</h1>
           <img src="/image/hero.png" alt="" />

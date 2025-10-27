@@ -12,15 +12,27 @@
 
 /* -------------------- Header -------------------- */
 header {
-  display: flex;
   padding: 30px;
-  background-color: #184A6C;
+  background-color: transparent;
   color: #fff;
   justify-content: space-between;
   align-items: center;
-  flex-wrap: wrap;
+  position: fixed;
+  display: flex;
+  width: 100%;
+  z-index: 1000;
+  transition: background-color 0.5s ease, box-shadow 0.5s ease, backdrop-filter 0.5s ease;;
 }
 
+header.header.scrolled{
+  background-color: #184A6C;
+  backdrop-filter: blur(6px);
+}
+
+header.static-header {
+  background-color: #184A6C;
+  backdrop-filter: blur(6px);
+}
 .header-logo img {
   height: 2.5rem;
 }
@@ -57,7 +69,7 @@ header {
 
 select {
   color: #fff;
-  background-color: #5DA9DD;
+  background-color: transparent;
   border: none;
   padding: 5px 10px;
   border-radius: 25px;
@@ -65,17 +77,42 @@ select {
 }
 
 /* -------------------- Home -------------------- */
-.home {
-  padding: 30px;
+.intro{
+  height: 100vh;
+  background-image: url("/image/cphoto4.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
 }
-
+.overlay{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: #5DA9DD;
+  background-color: rgba(0, 0, 0, 0.5);
+  height: 100vh;
+}
+.overlay h1{
+  max-width: 850px;
+  text-align: center;
+}
+.participate{
+  padding: 15px;
+  color: #fff;
+  background-color: green;
+  border: none;
+  border-radius: 25px;
+  font-size: 18px;
+  font-weight: bold;
+}
 .hero {
   display: flex;
   justify-content: center;
   align-items: center;
   gap: 15px;
   flex-wrap: wrap;
-  
+  padding: 30px;
 }
 
 .hero h1 {
@@ -261,7 +298,7 @@ footer p, footer li {
 
 /* Theme */
 .themeSwitcher{
-  background-color: #184A6C;
+  background-color: transparent;
   border: none;
 }
 .dark {

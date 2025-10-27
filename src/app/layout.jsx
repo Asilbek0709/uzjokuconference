@@ -5,8 +5,9 @@ import Link from "next/link";
 import { ThemeProvider } from "next-themes";
 import ThemeSwitcher from "./themeSwitcher";
 import Aos from "aos";
-import { useEffect } from "react";
+import { useEffect, useState } from "react";
 import "aos/dist/aos.css";
+import { usePathname } from "next/navigation";
 
 export default function RootLayout({ children }) {
 
@@ -17,12 +18,23 @@ export default function RootLayout({ children }) {
         })
     }, [])
 
+    const pathname = usePathname();
+    const isHomePage = pathname === "/";
+
+    const [scrolled, setScrolled] = useState(false)
+
+    useEffect(() => {
+        if (!isHomePage) return;
+        const handScroll = () => setScrolled(window.scrollY > 500)
+        window.addEventListener("scroll", handScroll)
+        return () => window.removeEventListener("scroll", handScroll)
+    }, [isHomePage])
 
   return (
     <html lang="uz">
       <body>
         <ThemeProvider attribute="class" defaultTheme="light">
-                <header data-aos="fade">
+                <header data-aos="fade" className={`header ${isHomePage ? scrolled ? "scrolled" : "" : "static-header"}`}>
             <div className="header-logo">
                 <img src="/image/logo.png" alt="" />
             </div>
