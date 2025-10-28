@@ -21,7 +21,6 @@ export default function Home() {
         <div className="intro" data-aos="fade-up">
           <div className="overlay">
             <h1 data-aos="fade-left">TIL, ADABIYOT VA JURNALISTIKA TA’LIMI: MUAMMO, YECHIM VA ISTIQBOLLAR</h1>
-            <button className="participate" data-aos="fade-up">Ishtirok etish</button>
           </div>
         </div>
         <div className="hero" data-aos="fade">
