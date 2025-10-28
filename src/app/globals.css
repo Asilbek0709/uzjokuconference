@@ -21,7 +21,7 @@ header {
   display: flex;
   width: 100%;
   z-index: 1000;
-  transition: background-color 0.5s ease, box-shadow 0.5s ease, backdrop-filter 0.5s ease;;
+  transition: background-color 1s ease, box-shadow 1s ease, backdrop-filter 1s ease;;
 }
 
 header.header.scrolled{
@@ -32,6 +32,7 @@ header.header.scrolled{
 header.static-header {
   background-color: #184A6C;
   backdrop-filter: blur(6px);
+  position: relative;
 }
 .header-logo img {
   height: 2.5rem;
@@ -115,7 +116,7 @@ nav{
 /* -------------------- Home -------------------- */
 .intro{
   height: 100vh;
-  background-image: url("/image/Faculty.png");
+  background-image: url("/image/heromain.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -277,6 +278,36 @@ nav{
   width: 100%;
   max-width: 45rem;
   border-radius: 15px;
+}
+
+/* Gallery */
+
+.gallery-page{
+  display: flex;
+  flex-direction: column;
+  padding: 30px;
+  justify-content: center;
+  align-items: center;
+}
+.gallery-container{
+  display: grid;
+  grid-template-columns: repeat(2, 3fr);
+  gap: 50px;
+}
+.gallery-card{
+  display: flex;
+  padding: 15px;
+  width: 35rem;
+  background-color: #D4EEF9;
+  justify-content: center;
+  align-items: center;
+  border-radius: 25px;
+  border: 0.5px solid #184A6C;
+}
+.gallery-card img{
+  width: 30rem;
+  height: 19rem;
+  border-radius: 25px;
 }
 
 /* -------------------- Footer -------------------- */
@@ -453,6 +484,21 @@ footer p, footer li {
   .social-media img {
     width: 1.5rem;
     height: 1.5rem;
+  }
+  .gallery-page{
+    display: flex;
+    flex-direction: column;
+  }
+  .gallery-container{
+    display: flex;
+    flex-direction: column;
+  }
+  .gallery-card{
+    width: 25rem;
+  }
+  .gallery-card img{
+    width: 23rem;
+    height: 15rem;
   }
 }
 
