@@ -52,11 +52,13 @@ export default function RootLayout({ children }) {
                         <Link href="/gallery" className="Link" onClick={() => setMenuOpen(false)}>Galereya</Link>
                         <Link href="/contact" className="Link" onClick={() => setMenuOpen(false)}>Aloqa</Link>
                     </ul>
-                <select name="" id="">
-                    <option value="">UZ</option>
-                    <option value="">RU</option>
-                    <option value="">EN</option>
-                </select>
+                <div className="select">
+                    <select name="" id="">
+                        <option value="uz">UZ</option>
+                        <option value="ru">RU</option>
+                        <option value="en">EN</option>
+                    </select>
+                </div>
                 <ThemeSwitcher /> 
                 </nav>             
             </div>
