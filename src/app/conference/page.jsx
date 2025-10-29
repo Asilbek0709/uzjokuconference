@@ -1,6 +1,6 @@
 "use client"
 
-import '@/app/globals.css'
+import '../globals.css'
 import Aos from "aos";
 import { useEffect } from "react";
 import "aos/dist/aos.css";
