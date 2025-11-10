@@ -1,9 +1,5 @@
 "use client"
 
-import Image from "next/image";
-import styles from "../app/globals.css";
-import Hero from 'next/image'
-import Requirements from 'next/image'
 import Aos from "aos";
 import { useEffect } from "react";
 import "aos/dist/aos.css";

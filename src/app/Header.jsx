@@ -6,6 +6,7 @@ import { useEffect, useState } from "react";
 import "aos/dist/aos.css";
 import { usePathname, useRouter } from "next/navigation";
 import ThemeSwitcher from "./themeSwitcher";
+import "../app/globals.css"
 
 export default function Header() {
   const pathname = usePathname();

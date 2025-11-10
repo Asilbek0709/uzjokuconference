@@ -8,6 +8,9 @@ const metadata = "TIL, ADABIYOT VA JURNALISTIKA TA’LIMI: MUAMMO, YECHIM VA IST
 
   return (
     <html>
+      <head>
+        <title>Filology Edu Media | Conferences </title>
+      </head>
       <body>
         <ThemeProvider attribute="class" defaultTheme="light">
           <Header/>
