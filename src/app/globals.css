@@ -98,7 +98,7 @@ option{
 .burger {
   width: 28px;
   height: 22px;
-  display: none; /* скрыт на ПК */
+  display: none; 
   flex-direction: column;
   justify-content: space-between;
   cursor: pointer;
@@ -114,7 +114,7 @@ option{
   transition: all 0.3s ease;
 }
 
-/* Анимация при открытии */
+
 .burger.active span:nth-child(1) {
   transform: rotate(45deg) translateY(8px);
 }
@@ -168,6 +168,7 @@ nav{
   gap: 15px;
   flex-wrap: wrap;
   padding: 30px;
+  text-align: center;
 }
 
 .hero h1 {
@@ -315,7 +316,7 @@ nav{
 .gallery-card{
   display: flex;
   padding: 15px;
-  width: 35rem;
+  width: 40rem;
   background-color: #D4EEF9;
   justify-content: center;
   align-items: center;
@@ -323,8 +324,8 @@ nav{
   border: 0.5px solid #184A6C;
 }
 .gallery-card img{
-  width: 30rem;
-  height: 19rem;
+  width: 35rem;
+  height: 22rem;
   border-radius: 25px;
 }
 
@@ -411,11 +412,12 @@ footer p, footer li {
   background-color: #D4EEF9;
   margin-top: 15px;
   padding: 10px;
-  border-radius: 25px;
+  border-radius: 8px;
   transition: 0.3s ease-in-out;
 }
 .article-info h4, .article-info p{
   color: #184A6C;
+  max-width: 50rem;
 }
 .article-info h5{
   color: #5DA9DD;
@@ -436,10 +438,6 @@ footer p, footer li {
   border-radius: 25px;
   border: none;
   font-size: 0.85rem;
-}
-.articleVariation-card:hover{
-  background-color: #5497c7dd;
-  color: #184A6C;
 }
 /* -------------------- Responsive Design -------------------- */
 
