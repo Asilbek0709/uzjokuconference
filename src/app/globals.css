@@ -407,6 +407,7 @@ footer p, footer li {
 }
 .articleVariation-card{
   display: flex;
+
   justify-content: space-between;
   align-items: center;
   background-color: #D4EEF9;
@@ -414,6 +415,7 @@ footer p, footer li {
   padding: 10px;
   border-radius: 8px;
   transition: 0.3s ease-in-out;
+  gap: 15px;
 }
 .article-info h4, .article-info p{
   color: #184A6C;
@@ -560,6 +562,11 @@ footer p, footer li {
   .gallery-card img{
     width: 23rem;
     height: 15rem;
+  }
+  .articleVariation-card{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
   }
 }
 

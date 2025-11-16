@@ -12,7 +12,7 @@ export default function FifthVariation() {
                         <div className="article-info">
                             <h4>QJAVDAT ABDULLANING IJOD CHASHMASI </h4>
                             <h5>Gulbahor SAIDG‘ANIYEVA</h5>
-                            <p>635-643 DOI: </p>
+                            <p>635-643 DOI: <a href="https://doi.org/10.5281/zenodo.17613733">https://doi.org/10.5281/zenodo.17613733</a></p>
                         </div>
                         <div className="references">
                             <a href="/files/82.pdf" download className="reference">Yuklab olish</a>
@@ -23,7 +23,7 @@ export default function FifthVariation() {
                         <div className="article-info">
                             <h4>TIL DAVLAT OTINING TIZGINIDIR</h4>
                             <h5>Bahodir QOBIL</h5>
-                            <p>644-650 DOI: </p>
+                            <p>644-650 DOI: <a href="https://doi.org/10.5281/zenodo.17613737">https://doi.org/10.5281/zenodo.17613737</a></p>
                         </div>
                         <div className="references">
                             <a href="/files/83.pdf" download className="reference">Yuklab olish</a>
@@ -34,7 +34,7 @@ export default function FifthVariation() {
                         <div className="article-info">
                             <h4>NUTQDA DALIL KELTIRISHNING AHAMIYATI VA TURLARI</h4>
                             <h5>Gulnoza DJURAKULOVA</h5>
-                            <p>651-658 DOI: </p>
+                            <p>651-658 DOI: <a href="https://doi.org/10.5281/zenodo.17613739">https://doi.org/10.5281/zenodo.17613739</a></p>
                         </div>
                         <div className="references">
                             <a href="/files/84.pdf" download className="reference">Yuklab olish</a>
@@ -45,7 +45,7 @@ export default function FifthVariation() {
                         <div className="article-info">
                             <h4>INTERNET MULOQOTINING LINGVISTIK XUSUSIYATLARI VA UNING JAMOATCHILIK FIKRIGA TA’SIRI</h4>
                             <h5>Feruza YAKUBOVA</h5>
-                            <p>659-665 DOI: </p>
+                            <p>659-665 DOI: <a href="https://doi.org/10.5281/zenodo.17613744">https://doi.org/10.5281/zenodo.17613744</a></p>
                         </div>
                         <div className="references">
                             <a href="/files/85.pdf" download className="reference">Yuklab olish</a>
@@ -56,7 +56,7 @@ export default function FifthVariation() {
                         <div className="article-info">
                             <h4>MULOQOT JARAYONIDA NUTQIY TA’SIRCHANLIKNI OSHIRUVCHI TIL BIRLIKLARI</h4>
                             <h5>Xurshida ASQAROVA</h5>
-                            <p>666-672 DOI: </p>
+                            <p>666-672 DOI: <a href="https://doi.org/10.5281/zenodo.17613748">https://doi.org/10.5281/zenodo.17613748</a></p>
                         </div>
                         <div className="references">
                             <a href="/files/86.pdf" download className="reference">Yuklab olish</a>
@@ -67,7 +67,7 @@ export default function FifthVariation() {
                         <div className="article-info">
                             <h4>TALABALARDA NOTIQLIK KOMPETENSIYASINI RIVOJLANTIRISHDAGI INNOVATSION YONDASHUVLAR </h4>
                             <h5>Mahliyo TESHABAYEVA</h5>
-                            <p>673-681 DOI: </p>
+                            <p>673-681 DOI: <a href="https://doi.org/10.5281/zenodo.17613750">https://doi.org/10.5281/zenodo.17613750</a></p>
                         </div>
                         <div className="references">
                             <a href="/files/87.pdf" download className="reference">Yuklab olish</a>
@@ -78,7 +78,7 @@ export default function FifthVariation() {
                         <div className="article-info">
                             <h4>MEDIAMATNLARDA VIZUAL VOSITALARNING QO‘LLANILISHI (“Jadid” va “Hurriyat” gazetalari misolida) </h4>
                             <h5>Mahina AXMEDOVA</h5>
-                            <p>682-687 DOI: </p>
+                            <p>682-687 DOI: <a href="https://doi.org/10.5281/zenodo.17613752">https://doi.org/10.5281/zenodo.17613752</a></p>
                         </div>
                         <div className="references">
                             <a href="/files/88.pdf" download className="reference">Yuklab olish</a>
@@ -89,7 +89,7 @@ export default function FifthVariation() {
                         <div className="article-info">
                             <h4>KUN.UZ VA QALAMPIR.UZ SAYTLARIDAGI REKLAMA MATNLARINING PSIXOLINGVISTIK TAHLILI</h4>
                             <h5>Dilsora RAXIMOVA</h5>
-                            <p>688-696 DOI: </p>
+                            <p>688-696 DOI: <a href="https://doi.org/10.5281/zenodo.17613757">https://doi.org/10.5281/zenodo.17613757</a></p>
                         </div>
                         <div className="references">
                             <a href="/files/89.pdf" download className="reference">Yuklab olish</a>
@@ -100,7 +100,7 @@ export default function FifthVariation() {
                         <div className="article-info">
                             <h4>MNUTQ TUZISHNING XUSUSIYATLARI VA NUTQDA RITORIK SHAKILLARDAN FOYDALANISH</h4>
                             <h5>Nilufar RABBINOVA</h5>
-                            <p>697-702 DOI: </p>
+                            <p>697-702 DOI: <a href="https://doi.org/10.5281/zenodo.17613759">https://doi.org/10.5281/zenodo.17613759</a></p>
                         </div>
                         <div className="references">
                             <a href="/files/90.pdf" download className="reference">Yuklab olish</a>
