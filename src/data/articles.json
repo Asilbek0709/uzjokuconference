@@ -1,0 +1,903 @@
+[
+  {
+    "id": "1",
+    "title": "TIL TARAQQIYOTIDA YANGI IJTIMOIY-SIYOSIY METAFORALAR",
+    "author": "Mukaddas ISRAIL",
+    "pdf": "/files/1.pdf",
+    "doi": "https://doi.org/10.5281/zenodo.17601310",
+    "pages": "8-15",
+    "date": "2025-10-15"
+  },
+  {
+    "id": "2",
+    "title": "GUMBOLDTNING JAHON TILSHUNOSLARIGA TA’SIRI VA IZDOSHLARI",
+    "author": "Abdurayim TUROBOV",
+    "pdf": "/files/2.pdf",
+    "doi": "https://doi.org/10.5281/zenodo.17601333",
+    "pages": "16-22",
+    "date": "2025-10-15"
+  },
+  {
+    "id": "3",
+    "title": "TIL TA’LIMIDA FONETIK HODISALAR TA’LIMINING YO‘LGA QO‘YILISHI",
+    "author": "Furqat NURMANOV",
+    "pdf": "/files/3.pdf",
+    "doi": "https://doi.org/10.5281/zenodo.17601339",
+    "pages": "23-31",
+    "date": "2025-10-15"
+  },
+  {
+    "id": "4",
+    "title": "CONTEMPORARY METHODS OF TEACHING ENGLISH LANGUAGE IN JOURNALISM EDUCATION",
+    "author": "Zukhra KHAZRATOVA",
+    "pdf": "/files/4.pdf",
+    "doi": "https://doi.org/10.5281/zenodo.17601351",
+    "pages": "32-38",
+    "date": "2025-10-15"
+  },
+  {
+    "id": "5",
+    "title": "COMPARATIVE STUDY OF THE CONCEPT OF “HOME” IN RUSSIAN AND UZBEK PROSE AND POETRY",
+    "author": "Mariya GRIGOREVA",
+    "pdf": "/files/5.pdf",
+    "doi": "https://doi.org/10.5281/zenodo.17601359",
+    "pages": "39-44",
+    "date": "2025-10-15"
+  },
+  {
+    "id": "6",
+    "title": "O‘ZBEK TILI PEDAGOGIKA TERMINOLOGIYASINING TARIXIY-LINGVISTIK TARAQQIYOT BOSQICHLARI",
+    "author": "E’tibor YAXSHIYEVA",
+    "pdf": "/files/6.pdf",
+    "doi": "https://doi.org/10.5281/zenodo.17601369",
+    "pages": "45-52",
+    "date": "2025-10-15"
+  },
+  {
+    "id": "7",
+    "title": "SUBSTANTIVE PHRASEOLOGICAL UNITS WITH A COLOR-DENOTING COMPONENT",
+    "author": "Go‘zzal BEGNIYAZOVA",
+    "pdf": "/files/7.pdf",
+    "doi": "https://doi.org/10.5281/zenodo.17601395",
+    "pages": "53-60",
+    "date": "2025-10-15"
+  },
+  {
+    "id": "8",
+    "title": "FILOLOGIYA TAʼLIMIDA ADABIY TAHRIR MALAKASINI SHAKLLANTIRISHNING KOMPETENSIYAVIY YONDASHUVI",
+    "author": "Orifjon MADVALIYEV",
+    "pdf": "/files/8.pdf",
+    "doi": "https://doi.org/10.5281/zenodo.17601403",
+    "pages": "61-68",
+    "date": "2025-10-15"
+  },
+  {
+    "id": "9",
+    "title": "INSON XATTI-HARAKAT VA XARAKTER XUSUSIYATLARINING ZOONIMIK KOMPONENTLI O‘XSHATISHLAR ORQALI IFODALANISHI",
+    "author": "Shaxloxon TURSINBAYEVA",
+    "pdf": "/files/9.pdf",
+    "doi": "https://doi.org/10.5281/zenodo.17601416",
+    "pages": "70-77",
+    "date": "2025-10-15"
+  },
+  {
+    "id": "10",
+    "title": "PASHTO TILIDA RAVISHLARNING SO‘Z YASALISHI RUSSHUNOSLIKNING NAZARIY-MODELLASHTIRILGAN KONTSEPTSIYALARI BILAN QIYOSLANGANDA",
+    "author": "Elianora ZAMALEYEVA",
+    "pdf": "/files/10.pdf",
+    "doi": "https://doi.org/10.5281/zenodo.17601428",
+    "pages": "78-89",
+    "date": "2025-10-15"
+  },
+  {
+    "id": "11",
+    "title": "RAQAMLI DAVRDA TILNING ROLI VA MUAMMOLARI",
+    "author": "Hurriyat IBRAGIMOVA",
+    "pdf": "/files/11.pdf",
+    "doi": "https://doi.org/10.5281/zenodo.17601436",
+    "pages": "90-97",
+    "date": "2025-10-15"
+  },
+  {
+    "id": "12",
+    "title": "TIL TIZIMIDA MULOQOT FАOLIYATI",
+    "author": "Diyora ABDUXAMIDOVA",
+    "pdf": "/files/12.pdf",
+    "doi": "https://doi.org/10.5281/zenodo.17601585",
+    "pages": "98-105",
+    "date": "2025-10-15"
+  },
+  {
+    "id": "13",
+    "title": "ONA TILINI O‘QITISHDA FANLARARO INTEGRATSIYANING NAZARIY ASOSLARI VA METODIK IMKONIYATLARI",
+    "author": "Shahlo HAMRAYEVA",
+    "pdf": "/files/13.pdf",
+    "doi": "https://doi.org/10.5281/zenodo.17601595",
+    "pages": "106-113",
+    "date": "2025-10-15"
+  },
+  {
+    "id": "14",
+    "title": "QODIRIY VA KINOTANQIDCHILIK MASALALARI",
+    "author": "Latofat TASHMUXAMEDOVA",
+    "pdf": "/files/14.pdf",
+    "doi": "https://doi.org/10.5281/zenodo.17601617",
+    "pages": "114-122",
+    "date": "2025-10-15"
+  },
+  {
+    "id": "15",
+    "title": "NAVOIY NASRI: MAKTUBOTLAR KOMPOZITSIYASI",
+    "author": "Tozagul DUSANOVA",
+    "pdf": "/files/15.pdf",
+    "doi": "https://doi.org/10.xxxxx/xxxx15",
+    "pages": "123-133",
+    "date": "2025-10-15"
+  },
+    {
+    "id": "16",
+    "title": "SHOYIM BO‘TAYEV ROMANLARIDA INSON VA BORLIQ FALSAFASI: IJODIY KONSEPSIYA, RUHIY TAHLIL VA MIFOPOETIK TAFAKKUR (“Qo‘rg‘onlangan oy”, “Shox” romanlari misolida)",
+    "author": "Elmira DJURAKULOVA",
+    "pdf": "/files/16.pdf",
+    "doi": "https://doi.org/10.xxxxx/xxxx15",
+    "pages": "134-140",
+    "date": "2025-10-15"
+  },
+    {
+    "id": "17",
+    "title": "TARJIMONNING SHAKLLANISHIDA NOTIQLIK SAN’ATI KO‘NIKMALARI",
+    "author": "Bobur G‘IYOSOV",
+    "pdf": "/files/17.pdf",
+    "doi": "https://doi.org/10.xxxxx/xxxx15",
+    "pages": "141-145",
+    "date": "2025-10-15"
+  },
+    {
+    "id": "18",
+    "title": "O‘ZBEK ADABIYOTIDA BADIIY USLUB HODISASI",
+    "author": "Yulduz TURDIYEVA",
+    "pdf": "/files/18.pdf",
+    "doi": "https://doi.org/10.xxxxx/xxxx15",
+    "pages": "146-153",
+    "date": "2025-10-15"
+  },
+    {
+    "id": "19",
+    "title": "ADABIYOT O‘QITISHDA RAQAMLI TA’LIM TEXNOLOGIYASIDAN FOYDALANISH",
+    "author": "Mahliyo ELBOYEVA",
+    "pdf": "/files/19.pdf",
+    "doi": "https://doi.org/10.xxxxx/xxxx15",
+    "pages": "154-161",
+    "date": "2025-10-15"
+  },
+    {
+    "id": "20",
+    "title": "G‘OYA  TUSHUNCHASINING ADABIY-NAZARIY JIHATDAN O‘RGANILISHI",
+    "author": "Nafisa KARIMOVA",
+    "pdf": "/files/20.pdf",
+    "doi": "https://doi.org/10.xxxxx/xxxx15",
+    "pages": "162-167",
+    "date": "2025-10-15"
+  },
+    {
+    "id": "21",
+    "title": "HALIMA XUDOYBERDIYEVA SHE’RIYATIDA TARIXIYLIK VA SHAXS KONSEPSIYASI",
+    "author": "Latofat TAJIBAYEVA",
+    "pdf": "/files/21.pdf",
+    "doi": "https://doi.org/10.xxxxx/xxxx15",
+    "pages": "168-174",
+    "date": "2025-10-15"
+  },
+    {
+    "id": "22",
+    "title": "ADABIYOT DARSLARIDA MULTIMEDIADAN FOYDALANISHNING NAZARIY VA AMALIY ASOSLARI",
+    "author": "Sug‘diyona XUDOYNAZAROVA",
+    "pdf": "/files/22.pdf",
+    "doi": "https://doi.org/10.xxxxx/xxxx15",
+    "pages": "177-186",
+    "date": "2025-10-15"
+  },
+    {
+    "id": "23",
+    "title": "TARJIMA AMALIYOTI VA PUBLITSISTIK MATERIALLARDA INNOVATSION YONDASHUVLAR ASOSIDA FAOLIYAT YURITISH",
+    "author": "Fazilat EGAMOVA",
+    "pdf": "/files/23.pdf",
+    "doi": "https://doi.org/10.xxxxx/xxxx15",
+    "pages": "187-192",
+    "date": "2025-10-15"
+  },
+    {
+    "id": "24",
+    "title": "RAMZIY OBRAZLARNING POETIK XUSUSIYATLARI (Tog‘ay Murodning “Bu dunyoda o‘lib bo‘lmaydi” romani asosida)",
+    "author": "Iymona MAXMUDOVA",
+    "pdf": "/files/24.pdf",
+    "doi": "https://doi.org/10.xxxxx/xxxx15",
+    "pages": "193-200",
+    "date": "2025-10-15"
+  },
+    {
+    "id": "25",
+    "title": "FIQRA JANRINING RIVOJLANISH BOSQICHLARI",
+    "author": "Rayhona XO‘JAEVA",
+    "pdf": "/files/25.pdf",
+    "doi": "https://doi.org/10.xxxxx/xxxx15",
+    "pages": "201-206",
+    "date": "2025-10-15"
+  },
+    {
+    "id": "26",
+    "title": "“ME’ROJNOMAYI TURKIY”DA HAZRATI BIBI FOTIMA ANHONING OTALARIGA MUNOJOTI",
+    "author": "Saodat LATIPOVA",
+    "pdf": "/files/26.pdf",
+    "doi": "https://doi.org/10.xxxxx/xxxx15",
+    "pages": "207-214",
+    "date": "2025-10-15"
+  },
+    {
+    "id": "27",
+    "title": "IBROYIM YUSUPOV ASARLARI TARJIMALARINING BADIIY VA STILISTIK XUSUSIYATLARI",
+    "author": "Gulsara ATAJANOVA",
+    "pdf": "/files/27.pdf",
+    "doi": "https://doi.org/10.xxxxx/xxxx15",
+    "pages": "215-220",
+    "date": "2025-10-15"
+  },
+    {
+    "id": "28",
+    "title": "O‘ZBEK BOLALAR SHE’RIYATIDA BOLA RUHIYATI TASVIRI",
+    "author": "Madina XOLBOBOYEVA",
+    "pdf": "/files/28.pdf",
+    "doi": "https://doi.org/10.xxxxx/xxxx15",
+    "pages": "221-226",
+    "date": "2025-10-15"
+  },
+    {
+    "id": "29",
+    "title": "TURK VA O‘ZBEK TILLARIDA MA’NOSI O‘XSHASH BO‘LGAN FRAZEOLOGIZMLARINING UMUMIY VA FARQLI JIHATLARI",
+    "author": "Saodat SHAMAKSUDOVA & Xurshid DILLIYEV & Sarvinoz BAXODIRJONOVA",
+    "pdf": "/files/29.pdf",
+    "doi": "https://doi.org/10.xxxxx/xxxx15",
+    "pages": "227-232",
+    "date": "2025-10-15"
+  },
+    {
+    "id": "30",
+    "title": "OZOD SHARAFIDDINOV TALQINIDA HAMZA HAKIMZODA NIYOZIY SHAXSI VA IJODIY DUNYOSI",
+    "author": "Shahzoda XALIMOVA",
+    "pdf": "/files/30.pdf",
+    "doi": "https://doi.org/10.xxxxx/xxxx15",
+    "pages": "233-238",
+    "date": "2025-10-15"
+  },
+    {
+    "id": "31",
+    "title": "“CHO‘LPONNI ANGLASH” MAQOLASIDA MILLIY TAFAKKUR VA IJODKOR SHAXSIYATINI TALQIN ETISH MASALALARI",
+    "author": "Shahnoza OCHILDIYEVA",
+    "pdf": "/files/31.pdf",
+    "doi": "https://doi.org/10.xxxxx/xxxx15",
+    "pages": "239-246",
+    "date": "2025-10-15"
+  },
+    {
+    "id": "32",
+    "title": "ZAMONAVIY O‘ZBEK TILIDAGI AYRIM KALIMALARNING “DEVONI LUG‘ATIT TURK’’ DA AKS ETISHI",
+    "author": "Gulnoza ABDURASHIDOVA",
+    "pdf": "/files/32.pdf",
+    "doi": "https://doi.org/10.xxxxx/xxxx15",
+    "pages": "247-254",
+    "date": "2025-10-15"
+  },
+    {
+    "id": "33",
+    "title": "TIL VA TAFAKKUR MUSHTARAKLIGI: ARAB VA O‘ZBEK FRAZEOLOGIZMLARINING UMUMIY JIHATLARI",
+    "author": "Yorqinoy FOZILJONOVA",
+    "pdf": "/files/33.pdf",
+    "doi": "https://doi.org/10.xxxxx/xxxx15",
+    "pages": "255-263",
+    "date": "2025-10-15"
+  },
+    {
+    "id": "15",
+    "title": "Article Title 15",
+    "author": "Author Name 15",
+    "pdf": "/files/15.pdf",
+    "doi": "https://doi.org/10.xxxxx/xxxx15",
+    "pages": "121-128",
+    "date": "2025-10-15"
+  },
+    {
+    "id": "15",
+    "title": "Article Title 15",
+    "author": "Author Name 15",
+    "pdf": "/files/15.pdf",
+    "doi": "https://doi.org/10.xxxxx/xxxx15",
+    "pages": "121-128",
+    "date": "2025-10-15"
+  },
+    {
+    "id": "15",
+    "title": "Article Title 15",
+    "author": "Author Name 15",
+    "pdf": "/files/15.pdf",
+    "doi": "https://doi.org/10.xxxxx/xxxx15",
+    "pages": "121-128",
+    "date": "2025-10-15"
+  },
+    {
+    "id": "15",
+    "title": "Article Title 15",
+    "author": "Author Name 15",
+    "pdf": "/files/15.pdf",
+    "doi": "https://doi.org/10.xxxxx/xxxx15",
+    "pages": "121-128",
+    "date": "2025-10-15"
+  },
+    {
+    "id": "15",
+    "title": "Article Title 15",
+    "author": "Author Name 15",
+    "pdf": "/files/15.pdf",
+    "doi": "https://doi.org/10.xxxxx/xxxx15",
+    "pages": "121-128",
+    "date": "2025-10-15"
+  },
+    {
+    "id": "15",
+    "title": "Article Title 15",
+    "author": "Author Name 15",
+    "pdf": "/files/15.pdf",
+    "doi": "https://doi.org/10.xxxxx/xxxx15",
+    "pages": "121-128",
+    "date": "2025-10-15"
+  },
+    {
+    "id": "15",
+    "title": "Article Title 15",
+    "author": "Author Name 15",
+    "pdf": "/files/15.pdf",
+    "doi": "https://doi.org/10.xxxxx/xxxx15",
+    "pages": "121-128",
+    "date": "2025-10-15"
+  },
+    {
+    "id": "15",
+    "title": "Article Title 15",
+    "author": "Author Name 15",
+    "pdf": "/files/15.pdf",
+    "doi": "https://doi.org/10.xxxxx/xxxx15",
+    "pages": "121-128",
+    "date": "2025-10-15"
+  },
+    {
+    "id": "15",
+    "title": "Article Title 15",
+    "author": "Author Name 15",
+    "pdf": "/files/15.pdf",
+    "doi": "https://doi.org/10.xxxxx/xxxx15",
+    "pages": "121-128",
+    "date": "2025-10-15"
+  },
+    {
+    "id": "15",
+    "title": "Article Title 15",
+    "author": "Author Name 15",
+    "pdf": "/files/15.pdf",
+    "doi": "https://doi.org/10.xxxxx/xxxx15",
+    "pages": "121-128",
+    "date": "2025-10-15"
+  },
+    {
+    "id": "15",
+    "title": "Article Title 15",
+    "author": "Author Name 15",
+    "pdf": "/files/15.pdf",
+    "doi": "https://doi.org/10.xxxxx/xxxx15",
+    "pages": "121-128",
+    "date": "2025-10-15"
+  },
+    {
+    "id": "15",
+    "title": "Article Title 15",
+    "author": "Author Name 15",
+    "pdf": "/files/15.pdf",
+    "doi": "https://doi.org/10.xxxxx/xxxx15",
+    "pages": "121-128",
+    "date": "2025-10-15"
+  },
+    {
+    "id": "15",
+    "title": "Article Title 15",
+    "author": "Author Name 15",
+    "pdf": "/files/15.pdf",
+    "doi": "https://doi.org/10.xxxxx/xxxx15",
+    "pages": "121-128",
+    "date": "2025-10-15"
+  },
+    {
+    "id": "15",
+    "title": "Article Title 15",
+    "author": "Author Name 15",
+    "pdf": "/files/15.pdf",
+    "doi": "https://doi.org/10.xxxxx/xxxx15",
+    "pages": "121-128",
+    "date": "2025-10-15"
+  },
+    {
+    "id": "15",
+    "title": "Article Title 15",
+    "author": "Author Name 15",
+    "pdf": "/files/15.pdf",
+    "doi": "https://doi.org/10.xxxxx/xxxx15",
+    "pages": "121-128",
+    "date": "2025-10-15"
+  },
+    {
+    "id": "15",
+    "title": "Article Title 15",
+    "author": "Author Name 15",
+    "pdf": "/files/15.pdf",
+    "doi": "https://doi.org/10.xxxxx/xxxx15",
+    "pages": "121-128",
+    "date": "2025-10-15"
+  },
+    {
+    "id": "15",
+    "title": "Article Title 15",
+    "author": "Author Name 15",
+    "pdf": "/files/15.pdf",
+    "doi": "https://doi.org/10.xxxxx/xxxx15",
+    "pages": "121-128",
+    "date": "2025-10-15"
+  },
+    {
+    "id": "15",
+    "title": "Article Title 15",
+    "author": "Author Name 15",
+    "pdf": "/files/15.pdf",
+    "doi": "https://doi.org/10.xxxxx/xxxx15",
+    "pages": "121-128",
+    "date": "2025-10-15"
+  },
+    {
+    "id": "15",
+    "title": "Article Title 15",
+    "author": "Author Name 15",
+    "pdf": "/files/15.pdf",
+    "doi": "https://doi.org/10.xxxxx/xxxx15",
+    "pages": "121-128",
+    "date": "2025-10-15"
+  },
+    {
+    "id": "15",
+    "title": "Article Title 15",
+    "author": "Author Name 15",
+    "pdf": "/files/15.pdf",
+    "doi": "https://doi.org/10.xxxxx/xxxx15",
+    "pages": "121-128",
+    "date": "2025-10-15"
+  },
+    {
+    "id": "15",
+    "title": "Article Title 15",
+    "author": "Author Name 15",
+    "pdf": "/files/15.pdf",
+    "doi": "https://doi.org/10.xxxxx/xxxx15",
+    "pages": "121-128",
+    "date": "2025-10-15"
+  },
+    {
+    "id": "15",
+    "title": "Article Title 15",
+    "author": "Author Name 15",
+    "pdf": "/files/15.pdf",
+    "doi": "https://doi.org/10.xxxxx/xxxx15",
+    "pages": "121-128",
+    "date": "2025-10-15"
+  },
+    {
+    "id": "15",
+    "title": "Article Title 15",
+    "author": "Author Name 15",
+    "pdf": "/files/15.pdf",
+    "doi": "https://doi.org/10.xxxxx/xxxx15",
+    "pages": "121-128",
+    "date": "2025-10-15"
+  },
+    {
+    "id": "15",
+    "title": "Article Title 15",
+    "author": "Author Name 15",
+    "pdf": "/files/15.pdf",
+    "doi": "https://doi.org/10.xxxxx/xxxx15",
+    "pages": "121-128",
+    "date": "2025-10-15"
+  },
+    {
+    "id": "15",
+    "title": "Article Title 15",
+    "author": "Author Name 15",
+    "pdf": "/files/15.pdf",
+    "doi": "https://doi.org/10.xxxxx/xxxx15",
+    "pages": "121-128",
+    "date": "2025-10-15"
+  },
+    {
+    "id": "15",
+    "title": "Article Title 15",
+    "author": "Author Name 15",
+    "pdf": "/files/15.pdf",
+    "doi": "https://doi.org/10.xxxxx/xxxx15",
+    "pages": "121-128",
+    "date": "2025-10-15"
+  },
+    {
+    "id": "15",
+    "title": "Article Title 15",
+    "author": "Author Name 15",
+    "pdf": "/files/15.pdf",
+    "doi": "https://doi.org/10.xxxxx/xxxx15",
+    "pages": "121-128",
+    "date": "2025-10-15"
+  },
+    {
+    "id": "15",
+    "title": "Article Title 15",
+    "author": "Author Name 15",
+    "pdf": "/files/15.pdf",
+    "doi": "https://doi.org/10.xxxxx/xxxx15",
+    "pages": "121-128",
+    "date": "2025-10-15"
+  },
+    {
+    "id": "15",
+    "title": "Article Title 15",
+    "author": "Author Name 15",
+    "pdf": "/files/15.pdf",
+    "doi": "https://doi.org/10.xxxxx/xxxx15",
+    "pages": "121-128",
+    "date": "2025-10-15"
+  },
+    {
+    "id": "15",
+    "title": "Article Title 15",
+    "author": "Author Name 15",
+    "pdf": "/files/15.pdf",
+    "doi": "https://doi.org/10.xxxxx/xxxx15",
+    "pages": "121-128",
+    "date": "2025-10-15"
+  },
+    {
+    "id": "15",
+    "title": "Article Title 15",
+    "author": "Author Name 15",
+    "pdf": "/files/15.pdf",
+    "doi": "https://doi.org/10.xxxxx/xxxx15",
+    "pages": "121-128",
+    "date": "2025-10-15"
+  },
+    {
+    "id": "15",
+    "title": "Article Title 15",
+    "author": "Author Name 15",
+    "pdf": "/files/15.pdf",
+    "doi": "https://doi.org/10.xxxxx/xxxx15",
+    "pages": "121-128",
+    "date": "2025-10-15"
+  },
+    {
+    "id": "15",
+    "title": "Article Title 15",
+    "author": "Author Name 15",
+    "pdf": "/files/15.pdf",
+    "doi": "https://doi.org/10.xxxxx/xxxx15",
+    "pages": "121-128",
+    "date": "2025-10-15"
+  },
+    {
+    "id": "15",
+    "title": "Article Title 15",
+    "author": "Author Name 15",
+    "pdf": "/files/15.pdf",
+    "doi": "https://doi.org/10.xxxxx/xxxx15",
+    "pages": "121-128",
+    "date": "2025-10-15"
+  },
+    {
+    "id": "15",
+    "title": "Article Title 15",
+    "author": "Author Name 15",
+    "pdf": "/files/15.pdf",
+    "doi": "https://doi.org/10.xxxxx/xxxx15",
+    "pages": "121-128",
+    "date": "2025-10-15"
+  },
+    {
+    "id": "15",
+    "title": "Article Title 15",
+    "author": "Author Name 15",
+    "pdf": "/files/15.pdf",
+    "doi": "https://doi.org/10.xxxxx/xxxx15",
+    "pages": "121-128",
+    "date": "2025-10-15"
+  },
+    {
+    "id": "15",
+    "title": "Article Title 15",
+    "author": "Author Name 15",
+    "pdf": "/files/15.pdf",
+    "doi": "https://doi.org/10.xxxxx/xxxx15",
+    "pages": "121-128",
+    "date": "2025-10-15"
+  },
+    {
+    "id": "15",
+    "title": "Article Title 15",
+    "author": "Author Name 15",
+    "pdf": "/files/15.pdf",
+    "doi": "https://doi.org/10.xxxxx/xxxx15",
+    "pages": "121-128",
+    "date": "2025-10-15"
+  },
+    {
+    "id": "15",
+    "title": "Article Title 15",
+    "author": "Author Name 15",
+    "pdf": "/files/15.pdf",
+    "doi": "https://doi.org/10.xxxxx/xxxx15",
+    "pages": "121-128",
+    "date": "2025-10-15"
+  },
+    {
+    "id": "15",
+    "title": "Article Title 15",
+    "author": "Author Name 15",
+    "pdf": "/files/15.pdf",
+    "doi": "https://doi.org/10.xxxxx/xxxx15",
+    "pages": "121-128",
+    "date": "2025-10-15"
+  },
+    {
+    "id": "15",
+    "title": "Article Title 15",
+    "author": "Author Name 15",
+    "pdf": "/files/15.pdf",
+    "doi": "https://doi.org/10.xxxxx/xxxx15",
+    "pages": "121-128",
+    "date": "2025-10-15"
+  },
+    {
+    "id": "15",
+    "title": "Article Title 15",
+    "author": "Author Name 15",
+    "pdf": "/files/15.pdf",
+    "doi": "https://doi.org/10.xxxxx/xxxx15",
+    "pages": "121-128",
+    "date": "2025-10-15"
+  },
+    {
+    "id": "15",
+    "title": "Article Title 15",
+    "author": "Author Name 15",
+    "pdf": "/files/15.pdf",
+    "doi": "https://doi.org/10.xxxxx/xxxx15",
+    "pages": "121-128",
+    "date": "2025-10-15"
+  },
+    {
+    "id": "15",
+    "title": "Article Title 15",
+    "author": "Author Name 15",
+    "pdf": "/files/15.pdf",
+    "doi": "https://doi.org/10.xxxxx/xxxx15",
+    "pages": "121-128",
+    "date": "2025-10-15"
+  },
+    {
+    "id": "15",
+    "title": "Article Title 15",
+    "author": "Author Name 15",
+    "pdf": "/files/15.pdf",
+    "doi": "https://doi.org/10.xxxxx/xxxx15",
+    "pages": "121-128",
+    "date": "2025-10-15"
+  },
+    {
+    "id": "15",
+    "title": "Article Title 15",
+    "author": "Author Name 15",
+    "pdf": "/files/15.pdf",
+    "doi": "https://doi.org/10.xxxxx/xxxx15",
+    "pages": "121-128",
+    "date": "2025-10-15"
+  },
+    {
+    "id": "15",
+    "title": "Article Title 15",
+    "author": "Author Name 15",
+    "pdf": "/files/15.pdf",
+    "doi": "https://doi.org/10.xxxxx/xxxx15",
+    "pages": "121-128",
+    "date": "2025-10-15"
+  },
+    {
+    "id": "15",
+    "title": "Article Title 15",
+    "author": "Author Name 15",
+    "pdf": "/files/15.pdf",
+    "doi": "https://doi.org/10.xxxxx/xxxx15",
+    "pages": "121-128",
+    "date": "2025-10-15"
+  },
+    {
+    "id": "15",
+    "title": "Article Title 15",
+    "author": "Author Name 15",
+    "pdf": "/files/15.pdf",
+    "doi": "https://doi.org/10.xxxxx/xxxx15",
+    "pages": "121-128",
+    "date": "2025-10-15"
+  },
+    {
+    "id": "15",
+    "title": "Article Title 15",
+    "author": "Author Name 15",
+    "pdf": "/files/15.pdf",
+    "doi": "https://doi.org/10.xxxxx/xxxx15",
+    "pages": "121-128",
+    "date": "2025-10-15"
+  },
+    {
+    "id": "15",
+    "title": "Article Title 15",
+    "author": "Author Name 15",
+    "pdf": "/files/15.pdf",
+    "doi": "https://doi.org/10.xxxxx/xxxx15",
+    "pages": "121-128",
+    "date": "2025-10-15"
+  },
+    {
+    "id": "15",
+    "title": "Article Title 15",
+    "author": "Author Name 15",
+    "pdf": "/files/15.pdf",
+    "doi": "https://doi.org/10.xxxxx/xxxx15",
+    "pages": "121-128",
+    "date": "2025-10-15"
+  },
+    {
+    "id": "15",
+    "title": "Article Title 15",
+    "author": "Author Name 15",
+    "pdf": "/files/15.pdf",
+    "doi": "https://doi.org/10.xxxxx/xxxx15",
+    "pages": "121-128",
+    "date": "2025-10-15"
+  },
+    {
+    "id": "15",
+    "title": "Article Title 15",
+    "author": "Author Name 15",
+    "pdf": "/files/15.pdf",
+    "doi": "https://doi.org/10.xxxxx/xxxx15",
+    "pages": "121-128",
+    "date": "2025-10-15"
+  },
+    {
+    "id": "15",
+    "title": "Article Title 15",
+    "author": "Author Name 15",
+    "pdf": "/files/15.pdf",
+    "doi": "https://doi.org/10.xxxxx/xxxx15",
+    "pages": "121-128",
+    "date": "2025-10-15"
+  },
+    {
+    "id": "15",
+    "title": "Article Title 15",
+    "author": "Author Name 15",
+    "pdf": "/files/15.pdf",
+    "doi": "https://doi.org/10.xxxxx/xxxx15",
+    "pages": "121-128",
+    "date": "2025-10-15"
+  },
+    {
+    "id": "15",
+    "title": "Article Title 15",
+    "author": "Author Name 15",
+    "pdf": "/files/15.pdf",
+    "doi": "https://doi.org/10.xxxxx/xxxx15",
+    "pages": "121-128",
+    "date": "2025-10-15"
+  },
+    {
+    "id": "15",
+    "title": "Article Title 15",
+    "author": "Author Name 15",
+    "pdf": "/files/15.pdf",
+    "doi": "https://doi.org/10.xxxxx/xxxx15",
+    "pages": "121-128",
+    "date": "2025-10-15"
+  },
+    {
+    "id": "15",
+    "title": "Article Title 15",
+    "author": "Author Name 15",
+    "pdf": "/files/15.pdf",
+    "doi": "https://doi.org/10.xxxxx/xxxx15",
+    "pages": "121-128",
+    "date": "2025-10-15"
+  },
+    {
+    "id": "15",
+    "title": "Article Title 15",
+    "author": "Author Name 15",
+    "pdf": "/files/15.pdf",
+    "doi": "https://doi.org/10.xxxxx/xxxx15",
+    "pages": "121-128",
+    "date": "2025-10-15"
+  },
+    {
+    "id": "15",
+    "title": "Article Title 15",
+    "author": "Author Name 15",
+    "pdf": "/files/15.pdf",
+    "doi": "https://doi.org/10.xxxxx/xxxx15",
+    "pages": "121-128",
+    "date": "2025-10-15"
+  },
+    {
+    "id": "15",
+    "title": "Article Title 15",
+    "author": "Author Name 15",
+    "pdf": "/files/15.pdf",
+    "doi": "https://doi.org/10.xxxxx/xxxx15",
+    "pages": "121-128",
+    "date": "2025-10-15"
+  },
+    {
+    "id": "15",
+    "title": "Article Title 15",
+    "author": "Author Name 15",
+    "pdf": "/files/15.pdf",
+    "doi": "https://doi.org/10.xxxxx/xxxx15",
+    "pages": "121-128",
+    "date": "2025-10-15"
+  },
+    {
+    "id": "15",
+    "title": "Article Title 15",
+    "author": "Author Name 15",
+    "pdf": "/files/15.pdf",
+    "doi": "https://doi.org/10.xxxxx/xxxx15",
+    "pages": "121-128",
+    "date": "2025-10-15"
+  },
+    {
+    "id": "15",
+    "title": "Article Title 15",
+    "author": "Author Name 15",
+    "pdf": "/files/15.pdf",
+    "doi": "https://doi.org/10.xxxxx/xxxx15",
+    "pages": "121-128",
+    "date": "2025-10-15"
+  },
+    {
+    "id": "15",
+    "title": "Article Title 15",
+    "author": "Author Name 15",
+    "pdf": "/files/15.pdf",
+    "doi": "https://doi.org/10.xxxxx/xxxx15",
+    "pages": "121-128",
+    "date": "2025-10-15"
+  },
+  
+  {
+    "id": "100",
+    "title": "Article Title 100",
+    "author": "Author Name 100",
+    "pdf": "/files/100.pdf",
+    "doi": "https://doi.org/10.xxxxx/xxxx100",
+    "pages": "500-510",
+    "date": "2025-10-15"
+  }
+]
