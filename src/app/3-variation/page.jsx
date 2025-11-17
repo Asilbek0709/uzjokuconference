@@ -11,7 +11,7 @@ export default function ThirdVariation() {
                 <div className="articleVariation-container">
                     <div className="articleVariation-card">
                         <div className="article-info">
-                            <h4>QPROFESSIONAL KOMPETENTLIK JURNALISTIK FAOLIYATNING ASOSIY MEZONI SIFATIDA</h4>
+                            <h4>PROFESSIONAL KOMPETENTLIK JURNALISTIK FAOLIYATNING ASOSIY MEZONI SIFATIDA</h4>
                             <h5>Ravshan RAYIMJONOV</h5>
                             <p>264-273</p>
                         </div>

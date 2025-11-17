@@ -10,7 +10,7 @@ export default function FifthVariation() {
                 <div className="articleVariation-container">
                     <div className="articleVariation-card">
                         <div className="article-info">
-                            <h4>QJAVDAT ABDULLANING IJOD CHASHMASI </h4>
+                            <h4>JAVDAT ABDULLANING IJOD CHASHMASI </h4>
                             <h5>Gulbahor SAIDG‘ANIYEVA</h5>
                             <p>635-643</p>
                         </div>
@@ -98,7 +98,7 @@ export default function FifthVariation() {
                     </div>
                     <div className="articleVariation-card">
                         <div className="article-info">
-                            <h4>MNUTQ TUZISHNING XUSUSIYATLARI VA NUTQDA RITORIK SHAKILLARDAN FOYDALANISH</h4>
+                            <h4>NUTQ TUZISHNING XUSUSIYATLARI VA NUTQDA RITORIK SHAKILLARDAN FOYDALANISH</h4>
                             <h5>Nilufar RABBINOVA</h5>
                             <p>697-702</p>
                         </div>
