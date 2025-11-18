@@ -12,8 +12,8 @@ export default function FourthPage() {
                             <p>309-318</p>
                         </div>
                         <div className="references">
-                            <a href="/files/40.pdf" download className="reference">Yuklab olish</a>
-                            <a href="/files/40.pdf" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
+                            <a href="/files/40.pdf" download className="reference"></a>
+                            <a href="/article/40" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
                         </div>
                     </div>
                     <div className="articleVariation-card">
@@ -23,7 +23,7 @@ export default function FourthPage() {
                             <p>319-326</p>
                         </div>
                         <div className="references">
-                            <a href="/files/41.pdf" download className="reference">Yuklab olish</a>
+                            <a href="/files/41.pdf" download className="reference"></a>
                             <a href="/files/41.pdf" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
                         </div>
                     </div>
@@ -34,7 +34,7 @@ export default function FourthPage() {
                             <p>327-333</p>
                         </div>
                         <div className="references">
-                            <a href="/files/42.pdf" download className="reference">Yuklab olish</a>
+                            <a href="/files/42.pdf" download className="reference"></a>
                             <a href="/files/42.pdf" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
                         </div>
                     </div>
@@ -45,7 +45,7 @@ export default function FourthPage() {
                             <p>334-338</p>
                         </div>
                         <div className="references">
-                            <a href="/files/43.pdf" download className="reference">Yuklab olish</a>
+                            <a href="/files/43.pdf" download className="reference"></a>
                             <a href="/files/43.pdf" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
                         </div>
                     </div>
@@ -56,7 +56,7 @@ export default function FourthPage() {
                             <p>339-344</p>
                         </div>
                         <div className="references">
-                            <a href="/files/44.pdf" download className="reference">Yuklab olish</a>
+                            <a href="/files/44.pdf" download className="reference"></a>
                             <a href="/files/44.pdf" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
                         </div>
                     </div>
@@ -67,7 +67,7 @@ export default function FourthPage() {
                             <p>335-353</p>
                         </div>
                         <div className="references">
-                            <a href="/files/45.pdf" download className="reference">Yuklab olish</a>
+                            <a href="/files/45.pdf" download className="reference"></a>
                             <a href="/files/45.pdf" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
                         </div>
                     </div>
@@ -78,7 +78,7 @@ export default function FourthPage() {
                             <p>354-366</p>
                         </div>
                         <div className="references">
-                            <a href="/files/46.pdf" download className="reference">Yuklab olish</a>
+                            <a href="/files/46.pdf" download className="reference"></a>
                             <a href="/files/46.pdf" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
                         </div>
                     </div>
@@ -89,7 +89,7 @@ export default function FourthPage() {
                             <p>367-375</p>
                         </div>
                         <div className="references">
-                            <a href="/files/47.pdf" download className="reference">Yuklab olish</a>
+                            <a href="/files/47.pdf" download className="reference"></a>
                             <a href="/files/47.pdf" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
                         </div>
                     </div>
@@ -100,7 +100,7 @@ export default function FourthPage() {
                             <p>376-384</p>
                         </div>
                         <div className="references">
-                            <a href="/files/48.pdf" download className="reference">Yuklab olish</a>
+                            <a href="/files/48.pdf" download className="reference"></a>
                             <a href="/files/48.pdf" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
                         </div>
                     </div>
@@ -111,7 +111,7 @@ export default function FourthPage() {
                             <p>385-393</p>
                         </div>
                         <div className="references">
-                            <a href="/files/49.pdf" download className="reference">Yuklab olish</a>
+                            <a href="/files/49.pdf" download className="reference"></a>
                             <a href="/files/49.pdf" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
                         </div>
                     </div>
@@ -122,7 +122,7 @@ export default function FourthPage() {
                             <p>394-398</p>
                         </div>
                         <div className="references">
-                            <a href="/files/50.pdf" download className="reference">Yuklab olish</a>
+                            <a href="/files/50.pdf" download className="reference"></a>
                             <a href="/files/50.pdf" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
                         </div>
                     </div>
@@ -133,7 +133,7 @@ export default function FourthPage() {
                             <p>400-408</p>
                         </div>
                         <div className="references">
-                            <a href="/files/51.pdf" download className="reference">Yuklab olish</a>
+                            <a href="/files/51.pdf" download className="reference"></a>
                             <a href="/files/51.pdf" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
                         </div>
                     </div>
@@ -144,7 +144,7 @@ export default function FourthPage() {
                             <p>409-414</p>
                         </div>
                         <div className="references">
-                            <a href="/files/52.pdf" download className="reference">Yuklab olish</a>
+                            <a href="/files/52.pdf" download className="reference"></a>
                             <a href="/files/52.pdf" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
                         </div>
                     </div>
@@ -155,7 +155,7 @@ export default function FourthPage() {
                             <p>415-420</p>
                         </div>
                         <div className="references">
-                            <a href="/files/53.pdf" download className="reference">Yuklab olish</a>
+                            <a href="/files/53.pdf" download className="reference"></a>
                             <a href="/files/53.pdf" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
                         </div>
                     </div>
@@ -166,7 +166,7 @@ export default function FourthPage() {
                             <p>421-425</p>
                         </div>
                         <div className="references">
-                            <a href="/files/54.pdf" download className="reference">Yuklab olish</a>
+                            <a href="/files/54.pdf" download className="reference"></a>
                             <a href="/files/54.pdf" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
                         </div>
                     </div>
@@ -177,7 +177,7 @@ export default function FourthPage() {
                             <p>426-433</p>
                         </div>
                         <div className="references">
-                            <a href="/files/55.pdf" download className="reference">Yuklab olish</a>
+                            <a href="/files/55.pdf" download className="reference"></a>
                             <a href="/files/55.pdf" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
                         </div>
                     </div>
@@ -188,7 +188,7 @@ export default function FourthPage() {
                             <p>434-443</p>
                         </div>
                         <div className="references">
-                            <a href="/files/56.pdf" download className="reference">Yuklab olish</a>
+                            <a href="/files/56.pdf" download className="reference"></a>
                             <a href="/files/56.pdf" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
                         </div>
                     </div>
@@ -199,7 +199,7 @@ export default function FourthPage() {
                             <p>444-453</p>
                         </div>
                         <div className="references">
-                            <a href="/files/57.pdf" download className="reference">Yuklab olish</a>
+                            <a href="/files/57.pdf" download className="reference"></a>
                             <a href="/files/57.pdf" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
                         </div>
                     </div>
@@ -210,7 +210,7 @@ export default function FourthPage() {
                             <p>454-463</p>
                         </div>
                         <div className="references">
-                            <a href="/files/58.pdf" download className="reference">Yuklab olish</a>
+                            <a href="/files/58.pdf" download className="reference"></a>
                             <a href="/files/58.pdf" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
                         </div>
                     </div>
@@ -221,7 +221,7 @@ export default function FourthPage() {
                             <p>464-473</p>
                         </div>
                         <div className="references">
-                            <a href="/files/59.pdf" download className="reference">Yuklab olish</a>
+                            <a href="/files/59.pdf" download className="reference"></a>
                             <a href="/files/59.pdf" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
                         </div>
                     </div>
@@ -232,7 +232,7 @@ export default function FourthPage() {
                             <p>474-480</p>
                         </div>
                         <div className="references">
-                            <a href="/files/60.pdf" download className="reference">Yuklab olish</a>
+                            <a href="/files/60.pdf" download className="reference"></a>
                             <a href="/files/60.pdf" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
                         </div>
                     </div>
@@ -243,7 +243,7 @@ export default function FourthPage() {
                             <p>481-490</p>
                         </div>
                         <div className="references">
-                            <a href="/files/61.pdf" download className="reference">Yuklab olish</a>
+                            <a href="/files/61.pdf" download className="reference"></a>
                             <a href="/files/61.pdf" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
                         </div>
                     </div>
@@ -254,7 +254,7 @@ export default function FourthPage() {
                             <p>491-498</p>
                         </div>
                         <div className="references">
-                            <a href="/files/62.pdf" download className="reference">Yuklab olish</a>
+                            <a href="/files/62.pdf" download className="reference"></a>
                             <a href="/files/62.pdf" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
                         </div>
                     </div>
@@ -265,7 +265,7 @@ export default function FourthPage() {
                             <p></p>
                         </div>
                         <div className="references">
-                            <a href="/files/.pdf" download className="reference">Yuklab olish</a>
+                          <a href="/files/.pdf" download className="reference"></a>
                             <a href="/files/.pdf" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
                         </div>
                     </div>
@@ -276,7 +276,7 @@ export default function FourthPage() {
                             <p></p>
                         </div>
                         <div className="references">
-                            <a href="/files/.pdf" download className="reference">Yuklab olish</a>
+                          <a href="/files/.pdf" download className="reference"></a>
                             <a href="/files/.pdf" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
                         </div>
                     </div>
@@ -287,7 +287,7 @@ export default function FourthPage() {
                             <p></p>
                         </div>
                         <div className="references">
-                            <a href="/files/.pdf" download className="reference">Yuklab olish</a>
+                          <a href="/files/.pdf" download className="reference"></a>
                             <a href="/files/.pdf" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
                         </div>
                     </div>
@@ -298,7 +298,7 @@ export default function FourthPage() {
                             <p></p>
                         </div>
                         <div className="references">
-                            <a href="/files/.pdf" download className="reference">Yuklab olish</a>
+                          <a href="/files/.pdf" download className="reference"></a>
                             <a href="/files/.pdf" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
                         </div>
                     </div>
@@ -309,7 +309,7 @@ export default function FourthPage() {
                             <p></p>
                         </div>
                         <div className="references">
-                            <a href="/files/.pdf" download className="reference">Yuklab olish</a>
+                          <a href="/files/.pdf" download className="reference"></a>
                             <a href="/files/.pdf" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
                         </div>
                     </div>
@@ -320,7 +320,7 @@ export default function FourthPage() {
                             <p></p>
                         </div>
                         <div className="references">
-                            <a href="/files/.pdf" download className="reference">Yuklab olish</a>
+                          <a href="/files/.pdf" download className="reference"></a>
                             <a href="/files/.pdf" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
                         </div>
                     </div>
@@ -331,7 +331,7 @@ export default function FourthPage() {
                             <p></p>
                         </div>
                         <div className="references">
-                            <a href="/files/.pdf" download className="reference">Yuklab olish</a>
+                          <a href="/files/.pdf" download className="reference"></a>
                             <a href="/files/.pdf" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
                         </div>
                     </div>
@@ -342,7 +342,7 @@ export default function FourthPage() {
                             <p></p>
                         </div>
                         <div className="references">
-                            <a href="/files/.pdf" download className="reference">Yuklab olish</a>
+                          <a href="/files/.pdf" download className="reference"></a>
                             <a href="/files/.pdf" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
                         </div>
                     </div>
@@ -353,7 +353,7 @@ export default function FourthPage() {
                             <p></p>
                         </div>
                         <div className="references">
-                            <a href="/files/.pdf" download className="reference">Yuklab olish</a>
+                          <a href="/files/.pdf" download className="reference"></a>
                             <a href="/files/.pdf" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
                         </div>
                     </div>
@@ -364,7 +364,7 @@ export default function FourthPage() {
                             <p></p>
                         </div>
                         <div className="references">
-                            <a href="/files/.pdf" download className="reference">Yuklab olish</a>
+                          <a href="/files/.pdf" download className="reference"></a>
                             <a href="/files/.pdf" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
                         </div>
                     </div>
@@ -375,7 +375,7 @@ export default function FourthPage() {
                             <p></p>
                         </div>
                         <div className="references">
-                            <a href="/files/.pdf" download className="reference">Yuklab olish</a>
+                          <a href="/files/.pdf" download className="reference"></a>
                             <a href="/files/.pdf" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
                         </div>
                     </div>
@@ -386,7 +386,7 @@ export default function FourthPage() {
                             <p></p>
                         </div>
                         <div className="references">
-                            <a href="/files/.pdf" download className="reference">Yuklab olish</a>
+                          <a href="/files/.pdf" download className="reference"></a>
                             <a href="/files/.pdf" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
                         </div>
                     </div>
@@ -397,7 +397,7 @@ export default function FourthPage() {
                             <p></p>
                         </div>
                         <div className="references">
-                            <a href="/files/.pdf" download className="reference">Yuklab olish</a>
+                          <a href="/files/.pdf" download className="reference"></a>
                             <a href="/files/.pdf" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
                         </div>
                     </div>
@@ -408,7 +408,7 @@ export default function FourthPage() {
                             <p></p>
                         </div>
                         <div className="references">
-                            <a href="/files/.pdf" download className="reference">Yuklab olish</a>
+                          <a href="/files/.pdf" download className="reference"></a>
                             <a href="/files/.pdf" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
                         </div>
                     </div>
@@ -419,7 +419,7 @@ export default function FourthPage() {
                             <p></p>
                         </div>
                         <div className="references">
-                            <a href="/files/.pdf" download className="reference">Yuklab olish</a>
+                          <a href="/files/.pdf" download className="reference"></a>
                             <a href="/files/.pdf" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
                         </div>
                     </div>
@@ -430,7 +430,7 @@ export default function FourthPage() {
                             <p></p>
                         </div>
                         <div className="references">
-                            <a href="/files/.pdf" download className="reference">Yuklab olish</a>
+                          <a href="/files/.pdf" download className="reference"></a>
                             <a href="/files/.pdf" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
                         </div>
                     </div>
@@ -441,7 +441,7 @@ export default function FourthPage() {
                             <p></p>
                         </div>
                         <div className="references">
-                            <a href="/files/.pdf" download className="reference">Yuklab olish</a>
+                          <a href="/files/.pdf" download className="reference"></a>
                             <a href="/files/.pdf" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
                         </div>
                     </div>
@@ -452,7 +452,7 @@ export default function FourthPage() {
                             <p></p>
                         </div>
                         <div className="references">
-                            <a href="/files/.pdf" download className="reference">Yuklab olish</a>
+                          <a href="/files/.pdf" download className="reference"></a>
                             <a href="/files/.pdf" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
                         </div>
                     </div>
@@ -463,7 +463,7 @@ export default function FourthPage() {
                             <p></p>
                         </div>
                         <div className="references">
-                            <a href="/files/.pdf" download className="reference">Yuklab olish</a>
+                          <a href="/files/.pdf" download className="reference"></a>
                             <a href="/files/.pdf" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
                         </div>
                     </div>

@@ -20,13 +20,13 @@ export default function ArticlePage({ params }) {
         <meta name="citation_conference_title" content="International Philology Conference 2024" />
       </Head>
 
-      <main style={{ padding: "20px" }}>
+      <main>
         <h1>{article.title}</h1>
         <p><strong>Author:</strong> {article.author}</p>
         <p><strong>Pages:</strong> {article.pages}</p>
         <p><strong>DOI:</strong> <a href={article.doi} target="_blank">{article.doi}</a></p>
         <iframe src={article.pdf} frameborder="0"></iframe>
-        <p><a href={article.pdf} download >Download PDF</a></p>
+        <p className="loading" ><a href={article.pdf} download className="articleDownload" >PDF yuklab olish</a></p>
       </main>
     </>
   );
