@@ -16,7 +16,6 @@ export default function ThirdVariation() {
                             <p>264-273</p>
                         </div>
                         <div className="references">
-                            <a href="/files/34.pdf" download className="reference">Yuklab olish</a>
                             <a href="/files/34.pdf" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
                         </div>
                     </div>
@@ -27,7 +26,6 @@ export default function ThirdVariation() {
                             <p>274-280</p>
                         </div>
                         <div className="references">
-                            <a href="/files/35.pdf" download className="reference">Yuklab olish</a>
                             <a href="/files/35.pdf" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
                         </div>
                     </div>
@@ -38,7 +36,6 @@ export default function ThirdVariation() {
                             <p>281-286</p>
                         </div>
                         <div className="references">
-                            <a href="/files/36.pdf" download className="reference">Yuklab olish</a>
                             <a href="/files/36.pdf" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
                         </div>
                     </div>
@@ -49,7 +46,6 @@ export default function ThirdVariation() {
                             <p>287-292</p>
                         </div>
                         <div className="references">
-                            <a href="/files/37.pdf" download className="reference">Yuklab olish</a>
                             <a href="/files/37.pdf" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
                         </div>
                     </div>
@@ -60,7 +56,6 @@ export default function ThirdVariation() {
                             <p>293-301</p>
                         </div>
                         <div className="references">
-                            <a href="/files/38.pdf" download className="reference">Yuklab olish</a>
                             <a href="/files/38.pdf" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
                         </div>
                     </div>
@@ -71,7 +66,6 @@ export default function ThirdVariation() {
                             <p>302-308</p>
                         </div>
                         <div className="references">
-                            <a href="/files/39.pdf" download className="reference">Yuklab olish</a>
                             <a href="/files/39.pdf" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
                         </div>
                     </div>

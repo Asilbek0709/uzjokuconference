@@ -12,7 +12,7 @@ export default function FourthPage() {
                             <p>309-318</p>
                         </div>
                         <div className="references">
-                            <a href="/files/40.pdf" download className="reference"></a>
+        
                             <a href="/article/40" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
                         </div>
                     </div>
@@ -23,8 +23,8 @@ export default function FourthPage() {
                             <p>319-326</p>
                         </div>
                         <div className="references">
-                            <a href="/files/41.pdf" download className="reference"></a>
-                            <a href="/files/41.pdf" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
+        
+                            <a href="/article/41" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
                         </div>
                     </div>
                     <div className="articleVariation-card">
@@ -34,8 +34,8 @@ export default function FourthPage() {
                             <p>327-333</p>
                         </div>
                         <div className="references">
-                            <a href="/files/42.pdf" download className="reference"></a>
-                            <a href="/files/42.pdf" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
+        
+                            <a href="/article/42" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
                         </div>
                     </div>
                     <div className="articleVariation-card">
@@ -45,8 +45,8 @@ export default function FourthPage() {
                             <p>334-338</p>
                         </div>
                         <div className="references">
-                            <a href="/files/43.pdf" download className="reference"></a>
-                            <a href="/files/43.pdf" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
+        
+                            <a href="/article/43" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
                         </div>
                     </div>
                     <div className="articleVariation-card">
@@ -56,8 +56,8 @@ export default function FourthPage() {
                             <p>339-344</p>
                         </div>
                         <div className="references">
-                            <a href="/files/44.pdf" download className="reference"></a>
-                            <a href="/files/44.pdf" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
+        
+                            <a href="/article/44" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
                         </div>
                     </div>
                     <div className="articleVariation-card">
@@ -67,8 +67,8 @@ export default function FourthPage() {
                             <p>335-353</p>
                         </div>
                         <div className="references">
-                            <a href="/files/45.pdf" download className="reference"></a>
-                            <a href="/files/45.pdf" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
+        
+                            <a href="/article/45" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
                         </div>
                     </div>
                     <div className="articleVariation-card">
@@ -78,8 +78,8 @@ export default function FourthPage() {
                             <p>354-366</p>
                         </div>
                         <div className="references">
-                            <a href="/files/46.pdf" download className="reference"></a>
-                            <a href="/files/46.pdf" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
+        
+                            <a href="/article/46" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
                         </div>
                     </div>
                     <div className="articleVariation-card">
@@ -89,8 +89,8 @@ export default function FourthPage() {
                             <p>367-375</p>
                         </div>
                         <div className="references">
-                            <a href="/files/47.pdf" download className="reference"></a>
-                            <a href="/files/47.pdf" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
+        
+                            <a href="/article/47" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
                         </div>
                     </div>
                     <div className="articleVariation-card">
@@ -100,8 +100,8 @@ export default function FourthPage() {
                             <p>376-384</p>
                         </div>
                         <div className="references">
-                            <a href="/files/48.pdf" download className="reference"></a>
-                            <a href="/files/48.pdf" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
+        
+                            <a href="/article/48" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
                         </div>
                     </div>
                     <div className="articleVariation-card">
@@ -111,8 +111,8 @@ export default function FourthPage() {
                             <p>385-393</p>
                         </div>
                         <div className="references">
-                            <a href="/files/49.pdf" download className="reference"></a>
-                            <a href="/files/49.pdf" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
+        
+                            <a href="/article/49" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
                         </div>
                     </div>
                     <div className="articleVariation-card">
@@ -122,8 +122,8 @@ export default function FourthPage() {
                             <p>394-398</p>
                         </div>
                         <div className="references">
-                            <a href="/files/50.pdf" download className="reference"></a>
-                            <a href="/files/50.pdf" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
+        
+                            <a href="/article/50" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
                         </div>
                     </div>
                     <div className="articleVariation-card">
@@ -133,8 +133,8 @@ export default function FourthPage() {
                             <p>400-408</p>
                         </div>
                         <div className="references">
-                            <a href="/files/51.pdf" download className="reference"></a>
-                            <a href="/files/51.pdf" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
+        
+                            <a href="/article/51" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
                         </div>
                     </div>
                     <div className="articleVariation-card">
@@ -144,8 +144,8 @@ export default function FourthPage() {
                             <p>409-414</p>
                         </div>
                         <div className="references">
-                            <a href="/files/52.pdf" download className="reference"></a>
-                            <a href="/files/52.pdf" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
+        
+                            <a href="/article/52" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
                         </div>
                     </div>
                     <div className="articleVariation-card">
@@ -155,8 +155,8 @@ export default function FourthPage() {
                             <p>415-420</p>
                         </div>
                         <div className="references">
-                            <a href="/files/53.pdf" download className="reference"></a>
-                            <a href="/files/53.pdf" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
+        
+                            <a href="/article/53" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
                         </div>
                     </div>
                     <div className="articleVariation-card">
@@ -166,8 +166,8 @@ export default function FourthPage() {
                             <p>421-425</p>
                         </div>
                         <div className="references">
-                            <a href="/files/54.pdf" download className="reference"></a>
-                            <a href="/files/54.pdf" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
+        
+                            <a href="/article/54" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
                         </div>
                     </div>
                     <div className="articleVariation-card">
@@ -177,8 +177,8 @@ export default function FourthPage() {
                             <p>426-433</p>
                         </div>
                         <div className="references">
-                            <a href="/files/55.pdf" download className="reference"></a>
-                            <a href="/files/55.pdf" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
+        
+                            <a href="/article/55" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
                         </div>
                     </div>
                     <div className="articleVariation-card">
@@ -188,8 +188,8 @@ export default function FourthPage() {
                             <p>434-443</p>
                         </div>
                         <div className="references">
-                            <a href="/files/56.pdf" download className="reference"></a>
-                            <a href="/files/56.pdf" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
+        
+                            <a href="/article/56" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
                         </div>
                     </div>
                     <div className="articleVariation-card">
@@ -199,8 +199,8 @@ export default function FourthPage() {
                             <p>444-453</p>
                         </div>
                         <div className="references">
-                            <a href="/files/57.pdf" download className="reference"></a>
-                            <a href="/files/57.pdf" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
+        
+                            <a href="/article/57" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
                         </div>
                     </div>
                     <div className="articleVariation-card">
@@ -210,8 +210,8 @@ export default function FourthPage() {
                             <p>454-463</p>
                         </div>
                         <div className="references">
-                            <a href="/files/58.pdf" download className="reference"></a>
-                            <a href="/files/58.pdf" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
+        
+                            <a href="/article/58" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
                         </div>
                     </div>
                     <div className="articleVariation-card">
@@ -221,8 +221,8 @@ export default function FourthPage() {
                             <p>464-473</p>
                         </div>
                         <div className="references">
-                            <a href="/files/59.pdf" download className="reference"></a>
-                            <a href="/files/59.pdf" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
+        
+                            <a href="/article/59" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
                         </div>
                     </div>
                     <div className="articleVariation-card">
@@ -232,8 +232,8 @@ export default function FourthPage() {
                             <p>474-480</p>
                         </div>
                         <div className="references">
-                            <a href="/files/60.pdf" download className="reference"></a>
-                            <a href="/files/60.pdf" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
+        
+                            <a href="/article/60" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
                         </div>
                     </div>
                     <div className="articleVariation-card">
@@ -243,8 +243,8 @@ export default function FourthPage() {
                             <p>481-490</p>
                         </div>
                         <div className="references">
-                            <a href="/files/61.pdf" download className="reference"></a>
-                            <a href="/files/61.pdf" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
+        
+                            <a href="/article/61" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
                         </div>
                     </div>
                     <div className="articleVariation-card">
@@ -254,217 +254,205 @@ export default function FourthPage() {
                             <p>491-498</p>
                         </div>
                         <div className="references">
-                            <a href="/files/62.pdf" download className="reference"></a>
-                            <a href="/files/62.pdf" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
+        
+                            <a href="/article/62" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
                         </div>
                     </div>
                     <div className="articleVariation-card">
                         <div className="article-info">
-                            <h4></h4>
-                            <h5></h5>
-                            <p></p>
+                            <h4>AVTOMATLASHTIRILGAN FAKT FEKSHIRUVI VA SUN’IY INTELLEKT INTEGRATSIYASI: ANIQLIK VA MASSHTABLILIK O‘RTASIDAGI MUVOZANAT</h4>
+                            <h5>Umida QODIROVA</h5>
+                            <p>499-507</p>
                         </div>
                         <div className="references">
-                          <a href="/files/.pdf" download className="reference"></a>
-                            <a href="/files/.pdf" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
+                            <a href="/article/63" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
                         </div>
                     </div>
                     <div className="articleVariation-card">
                         <div className="article-info">
-                            <h4></h4>
-                            <h5></h5>
-                            <p></p>
+                            <h4>TRANSITION OF CREATIVE AND COGNITIVE PARADIGMS FROM ANTHROPOCENTRIC TO ALGORITHMIC THINKING IN CONTEMPORARY JOURNALISM </h4>
+                            <h5>Madinabonu URINOVA</h5>
+                            <p>508-516</p>
                         </div>
                         <div className="references">
-                          <a href="/files/.pdf" download className="reference"></a>
-                            <a href="/files/.pdf" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
+
+                            <a href="/article/64" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
                         </div>
                     </div>
                     <div className="articleVariation-card">
                         <div className="article-info">
-                            <h4></h4>
-                            <h5></h5>
-                            <p></p>
+                            <h4>RADIODEBATE TO ALGORITHMIC INTERACTION: ETHICAL, COMMUNICATIVE, AND DEMOCRATIC CHALLENGES IN POLITICAL MEDIA EVOLUTION</h4>
+                            <h5>Nafosat DAVLATOVA</h5>
+                            <p>517-526</p>
                         </div>
                         <div className="references">
-                          <a href="/files/.pdf" download className="reference"></a>
-                            <a href="/files/.pdf" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
+
+                            <a href="/article/65" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
                         </div>
                     </div>
                     <div className="articleVariation-card">
                         <div className="article-info">
-                            <h4></h4>
-                            <h5></h5>
-                            <p></p>
+                            <h4>TELEKO‘RSATUVLAR JANRLARINING RANG-BARANGLIGI MASALALARI</h4>
+                            <h5>Barno USMANOVA</h5>
+                            <p>527-532</p>
                         </div>
                         <div className="references">
-                          <a href="/files/.pdf" download className="reference"></a>
-                            <a href="/files/.pdf" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
+
+                            <a href="/article/66" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
                         </div>
                     </div>
                     <div className="articleVariation-card">
                         <div className="article-info">
-                            <h4></h4>
-                            <h5></h5>
-                            <p></p>
+                            <h4>PEDAGOGIKALÍQ TERMINOLOGIYANÍŃ MILLIYLIK, MÁDENIYAT HÁM QÁDIRYATLAR MENEN BAYLANÍSÍ </h4>
+                            <h5>Dilfuza SULTANOVA</h5>
+                            <p>533-539</p>
                         </div>
                         <div className="references">
-                          <a href="/files/.pdf" download className="reference"></a>
-                            <a href="/files/.pdf" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
+
+                            <a href="/article/67" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
                         </div>
                     </div>
                     <div className="articleVariation-card">
                         <div className="article-info">
-                            <h4></h4>
-                            <h5></h5>
-                            <p></p>
+                            <h4>“MENDIRMAN JALOLIDDIN” SERIALIDA: TURKON XOTUN VA OYCHECHAK, QUTLUBEKA MISOLIDA AYOL OBRAZI TAHLILI</h4>
+                            <h5>Viloyat SHODIYEVA</h5>
+                            <p>540-547</p>
                         </div>
                         <div className="references">
-                          <a href="/files/.pdf" download className="reference"></a>
-                            <a href="/files/.pdf" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
+
+                            <a href="/article/68" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
                         </div>
                     </div>
                     <div className="articleVariation-card">
                         <div className="article-info">
-                            <h4></h4>
-                            <h5></h5>
-                            <p></p>
+                            <h4>TREVEL JURNALISTIKADA YOSH KADRLAR SONINING OSISHI: IMKONIYATLAR VA XAVF OMILLARI</h4>
+                            <h5>Feruza ERGASHEVA</h5>
+                            <p>548-553</p>
                         </div>
                         <div className="references">
-                          <a href="/files/.pdf" download className="reference"></a>
-                            <a href="/files/.pdf" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
+
+                            <a href="/article/69" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
                         </div>
                     </div>
                     <div className="articleVariation-card">
                         <div className="article-info">
-                            <h4></h4>
-                            <h5></h5>
-                            <p></p>
+                            <h4>TA’LIMGA OID MAVZULARNING O‘ZBEKISTON MEDIA MAKONIDA YORITILISHI: AN’ANAVIY MATBUOT VA BLOGERLAR MISOLIDA</h4>
+                            <h5>Zilola MADATOVA</h5>
+                            <p>554-564</p>
                         </div>
                         <div className="references">
-                          <a href="/files/.pdf" download className="reference"></a>
-                            <a href="/files/.pdf" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
+
+                            <a href="/article/70" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
                         </div>
                     </div>
                     <div className="articleVariation-card">
                         <div className="article-info">
-                            <h4></h4>
-                            <h5></h5>
-                            <p></p>
+                            <h4>ЗАГОЛОВКИ КАК КОММУНИКАТИВНЫЕ ЕДИНИЦЫ: СТРУКТУРНЫЕ ПРЕДПОЧТЕНИЯ СМИ УЗБЕКИСТАНА И КАЗАХСТАНА</h4>
+                            <h5>Дильноза ТАДЖИБАЕВА</h5>
+                            <p>565-573</p>
                         </div>
                         <div className="references">
-                          <a href="/files/.pdf" download className="reference"></a>
-                            <a href="/files/.pdf" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
+
+                            <a href="/article/71" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
                         </div>
                     </div>
                     <div className="articleVariation-card">
                         <div className="article-info">
-                            <h4></h4>
-                            <h5></h5>
-                            <p></p>
+                            <h4>GAZETADAGI PUBLITSISTIK MATERIALLARDA SARLAVHA VA MATN MUNOSABATI</h4>
+                            <h5>Shahodatxon ABDUMUTALIPOVA</h5>
+                            <p>574-579</p>
                         </div>
                         <div className="references">
-                          <a href="/files/.pdf" download className="reference"></a>
-                            <a href="/files/.pdf" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
+
+                            <a href="/article/72" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
                         </div>
                     </div>
                     <div className="articleVariation-card">
                         <div className="article-info">
-                            <h4></h4>
-                            <h5></h5>
-                            <p></p>
+                            <h4>MEDIA VA AXBOROT SAVODXONLIGI KONTEKSTIDA TELEXABARLAR: RAQAMLI JURNALISTIKA VA PR FORMATLARI UYG‘UNLIGI (Qoraqalpog‘iston televideniyesi va “O‘zbekiston 24” informatsion dasturlari misolida) </h4>
+                            <h5>Aysuliw KAMALOVA</h5>
+                            <p>580-590</p>
                         </div>
                         <div className="references">
-                          <a href="/files/.pdf" download className="reference"></a>
-                            <a href="/files/.pdf" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
+
+                            <a href="/article/73" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
                         </div>
                     </div>
                     <div className="articleVariation-card">
                         <div className="article-info">
-                            <h4></h4>
-                            <h5></h5>
-                            <p></p>
+                            <h4>MAKTAB YOSHIDAGI BOLALARNING TIL O‘RGANISHIDA VIZUAL KONTENTLARNING AHAMIYATI</h4>
+                            <h5>Vazira ZAYNIDDINOVA</h5>
+                            <p>591-595</p>
                         </div>
                         <div className="references">
-                          <a href="/files/.pdf" download className="reference"></a>
-                            <a href="/files/.pdf" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
+
+                            <a href="/article/75" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
                         </div>
                     </div>
                     <div className="articleVariation-card">
                         <div className="article-info">
-                            <h4></h4>
-                            <h5></h5>
-                            <p></p>
+                            <h4>YOSHLAR EKOMADANIYATINI SHAKLLANTIRISHDA PR TEXNOLOGIYALARINING KOMMUNIKATIV IMKONIYATLARI: SAMARADORLIK VA INNOVATSION YONDASHUVLAR</h4>
+                            <h5>Ruxsora ORTIQOVA</h5>
+                            <p>596-605</p>
                         </div>
                         <div className="references">
-                          <a href="/files/.pdf" download className="reference"></a>
-                            <a href="/files/.pdf" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
+
+                            <a href="/article/76" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
                         </div>
                     </div>
                     <div className="articleVariation-card">
                         <div className="article-info">
-                            <h4></h4>
-                            <h5></h5>
-                            <p></p>
+                            <h4>ZAMONAVIY RAQAMLI DISKURS TUSHUNCHASI VA UNING NAZARIY TALQINLARI</h4>
+                            <h5>Shahnoza QODIROVA</h5>
+                            <p>606-612</p>
                         </div>
                         <div className="references">
-                          <a href="/files/.pdf" download className="reference"></a>
-                            <a href="/files/.pdf" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
+
+                            <a href="/article/77" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
                         </div>
                     </div>
                     <div className="articleVariation-card">
                         <div className="article-info">
-                            <h4></h4>
-                            <h5></h5>
-                            <p></p>
+                            <h4>IJTIMOIY TARMOQLARDA AXBOROT MANIPULYATSIYASI VA JAMOATCHILIK FIKRI</h4>
+                            <h5>Abdujabbor ALIQULOV</h5>
+                            <p>613-619</p>
                         </div>
                         <div className="references">
-                          <a href="/files/.pdf" download className="reference"></a>
-                            <a href="/files/.pdf" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
+
+                            <a href="/article/78" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
                         </div>
                     </div>
                     <div className="articleVariation-card">
                         <div className="article-info">
-                            <h4></h4>
-                            <h5></h5>
-                            <p></p>
+                            <h4>BOLALAR JURNALISTIKASIDA RAQAMLI PR TEXNOLOGIYALARI:  O‘ZBEKISTON VA TURKIYA MISOLIDA<h4/>                                               </h4>
+                            <h5>Muhabbat BEQQULOVA</h5>
+                            <p>620-628</p>
                         </div>
                         <div className="references">
-                          <a href="/files/.pdf" download className="reference"></a>
-                            <a href="/files/.pdf" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
+
+                            <a href="/article/79" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
                         </div>
                     </div>
                     <div className="articleVariation-card">
                         <div className="article-info">
-                            <h4></h4>
-                            <h5></h5>
-                            <p></p>
+                            <h4>XALQARO MAYDONDA REKLAMA TARQALISHI VA RIVOJLANISHI (AQSh va Rossiya OAV misolida)</h4>
+                            <h5>Luiza TOSHPO‘LATOVA</h5>
+                            <p>629-635</p>
                         </div>
                         <div className="references">
-                          <a href="/files/.pdf" download className="reference"></a>
-                            <a href="/files/.pdf" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
+
+                            <a href="/article/80" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
                         </div>
                     </div>
                     <div className="articleVariation-card">
                         <div className="article-info">
-                            <h4></h4>
-                            <h5></h5>
-                            <p></p>
+                            <h4>RAQAMLI JURNALISTIKA VA AXBOROT XIZMATLARIDA MEDIA KONVERGENSIYA JARAYONLARI </h4>
+                            <h5>Farangiz ABRUYEVA</h5>
+                            <p>636-644</p>
                         </div>
                         <div className="references">
-                          <a href="/files/.pdf" download className="reference"></a>
-                            <a href="/files/.pdf" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
-                        </div>
-                    </div>
-                    <div className="articleVariation-card">
-                        <div className="article-info">
-                            <h4></h4>
-                            <h5></h5>
-                            <p></p>
-                        </div>
-                        <div className="references">
-                          <a href="/files/.pdf" download className="reference"></a>
-                            <a href="/files/.pdf" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
+
+                            <a href="/article/81" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
                         </div>
                     </div>
                 </div>

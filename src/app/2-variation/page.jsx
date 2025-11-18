@@ -16,7 +16,6 @@ export default function SecondVariation() {
                             <p>114-122</p>
                         </div>
                         <div className="references">
-                            <a href="/files/14.pdf" download className="reference">Yuklab olish</a>
                             <a href="/files/14.pdf" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
                         </div>
                     </div>
@@ -27,7 +26,6 @@ export default function SecondVariation() {
                             <p>123-133</p>
                         </div>
                         <div className="references">
-                            <a href="/files/15.pdf" download className="reference">Yuklab olish</a>
                             <a href="/files/15.pdf" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
                         </div>
                     </div>
@@ -38,7 +36,6 @@ export default function SecondVariation() {
                             <p>134-140</p>
                         </div>
                         <div className="references">
-                            <a href="/files/16.pdf" download className="reference">Yuklab olish</a>
                             <a href="/files/16.pdf" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
                         </div>
                     </div>
@@ -49,7 +46,6 @@ export default function SecondVariation() {
                             <p>141-145</p>
                         </div>
                         <div className="references">
-                            <a href="/files/17.pdf" download className="reference">Yuklab olish</a>
                             <a href="/files/17.pdf" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
                         </div>
                     </div>
@@ -60,7 +56,6 @@ export default function SecondVariation() {
                             <p>146-153</p>
                         </div>
                         <div className="references">
-                            <a href="/files/18.pdf" download className="reference">Yuklab olish</a>
                             <a href="/files/18.pdf" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
                         </div>
                     </div>
@@ -71,7 +66,6 @@ export default function SecondVariation() {
                             <p>154-161</p>
                         </div>
                         <div className="references">
-                            <a href="/files/19.pdf" download className="reference">Yuklab olish</a>
                             <a href="/files/19.pdf" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
                         </div>
                     </div>
@@ -82,7 +76,6 @@ export default function SecondVariation() {
                             <p>162-167</p>
                         </div>
                         <div className="references">
-                            <a href="/files/20.pdf" download className="reference">Yuklab olish</a>
                             <a href="/files/20.pdf" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
                         </div>
                     </div>
@@ -93,7 +86,6 @@ export default function SecondVariation() {
                             <p>168-174</p>
                         </div>
                         <div className="references">
-                            <a href="/files/21.pdf" download className="reference">Yuklab olish</a>
                             <a href="/files/21.pdf" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
                         </div>
                     </div>
@@ -104,7 +96,6 @@ export default function SecondVariation() {
                             <p>177-186</p>
                         </div>
                         <div className="references">
-                            <a href="/files/22.pdf" download className="reference">Yuklab olish</a>
                             <a href="/files/22.pdf" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
                         </div>
                     </div>
@@ -115,7 +106,6 @@ export default function SecondVariation() {
                             <p>187-192</p>
                         </div>
                         <div className="references">
-                            <a href="/files/23.pdf" download className="reference">Yuklab olish</a>
                             <a href="/files/23.pdf" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
                         </div>
                     </div>
@@ -126,7 +116,6 @@ export default function SecondVariation() {
                             <p>193-200</p>
                         </div>
                         <div className="references">
-                            <a href="/files/24.pdf" download className="reference">Yuklab olish</a>
                             <a href="/files/24.pdf" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
                         </div>
                     </div>
@@ -137,7 +126,6 @@ export default function SecondVariation() {
                             <p>201-206</p>
                         </div>
                         <div className="references">
-                            <a href="/files/25.pdf" download className="reference">Yuklab olish</a>
                             <a href="/files/25.pdf" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
                         </div>
                     </div>
@@ -148,7 +136,6 @@ export default function SecondVariation() {
                             <p>207-214</p>
                         </div>
                         <div className="references">
-                            <a href="/files/26.pdf" download className="reference">Yuklab olish</a>
                             <a href="/files/26.pdf" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
                         </div>
                     </div>
@@ -159,7 +146,6 @@ export default function SecondVariation() {
                             <p>215-220</p>
                         </div>
                         <div className="references">
-                            <a href="/files/27.pdf" download className="reference">Yuklab olish</a>
                             <a href="/files/27.pdf" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
                         </div>
                     </div>
@@ -170,7 +156,6 @@ export default function SecondVariation() {
                             <p>221-226</p>
                         </div>
                         <div className="references">
-                            <a href="/files/28.pdf" download className="reference">Yuklab olish</a>
                             <a href="/files/28.pdf" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
                         </div>
                     </div>
@@ -181,7 +166,6 @@ export default function SecondVariation() {
                             <p>227-232</p>
                         </div>
                         <div className="references">
-                            <a href="/files/29.pdf" download className="reference">Yuklab olish</a>
                             <a href="/files/29.pdf" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
                         </div>
                     </div>
@@ -192,7 +176,6 @@ export default function SecondVariation() {
                             <p>233-238</p>
                         </div>
                         <div className="references">
-                            <a href="/files/30.pdf" download className="reference">Yuklab olish</a>
                             <a href="/files/30.pdf" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
                         </div>
                     </div>
@@ -203,7 +186,6 @@ export default function SecondVariation() {
                             <p>239-246</p>
                         </div>
                         <div className="references">
-                            <a href="/files/31.pdf" download className="reference">Yuklab olish</a>
                             <a href="/files/31.pdf" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
                         </div>
                     </div>
@@ -214,7 +196,6 @@ export default function SecondVariation() {
                             <p>247-254</p>
                         </div>
                         <div className="references">
-                            <a href="/files/32.pdf" download className="reference">Yuklab olish</a>
                             <a href="/files/32.pdf" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
                         </div>
                     </div>
@@ -225,7 +206,6 @@ export default function SecondVariation() {
                             <p>255-263</p>
                         </div>
                         <div className="references">
-                            <a href="/files/33.pdf" download className="reference">Yuklab olish</a>
                             <a href="/files/33.pdf" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
                         </div>
                     </div>
