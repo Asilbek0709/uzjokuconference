@@ -16,7 +16,7 @@ export default function SecondVariation() {
                             <p>114-122</p>
                         </div>
                         <div className="references">
-                            <a href="/files/14.pdf" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
+                            <a href="/article/14" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
                         </div>
                     </div>
                     <div className="articleVariation-card">
@@ -26,7 +26,7 @@ export default function SecondVariation() {
                             <p>123-133</p>
                         </div>
                         <div className="references">
-                            <a href="/files/15.pdf" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
+                            <a href="/article/15" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
                         </div>
                     </div>
                     <div className="articleVariation-card">
@@ -36,7 +36,7 @@ export default function SecondVariation() {
                             <p>134-140</p>
                         </div>
                         <div className="references">
-                            <a href="/files/16.pdf" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
+                            <a href="/article/16" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
                         </div>
                     </div>
                     <div className="articleVariation-card">
@@ -46,7 +46,7 @@ export default function SecondVariation() {
                             <p>141-145</p>
                         </div>
                         <div className="references">
-                            <a href="/files/17.pdf" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
+                            <a href="/article/17" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
                         </div>
                     </div>
                     <div className="articleVariation-card">
@@ -56,7 +56,7 @@ export default function SecondVariation() {
                             <p>146-153</p>
                         </div>
                         <div className="references">
-                            <a href="/files/18.pdf" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
+                            <a href="/article/18" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
                         </div>
                     </div>
                     <div className="articleVariation-card">
@@ -66,7 +66,7 @@ export default function SecondVariation() {
                             <p>154-161</p>
                         </div>
                         <div className="references">
-                            <a href="/files/19.pdf" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
+                            <a href="/article/19" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
                         </div>
                     </div>
                     <div className="articleVariation-card">
@@ -76,7 +76,7 @@ export default function SecondVariation() {
                             <p>162-167</p>
                         </div>
                         <div className="references">
-                            <a href="/files/20.pdf" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
+                            <a href="/article/20" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
                         </div>
                     </div>
                     <div className="articleVariation-card">
@@ -86,7 +86,7 @@ export default function SecondVariation() {
                             <p>168-174</p>
                         </div>
                         <div className="references">
-                            <a href="/files/21.pdf" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
+                            <a href="/article/21" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
                         </div>
                     </div>
                     <div className="articleVariation-card">
@@ -96,7 +96,7 @@ export default function SecondVariation() {
                             <p>177-186</p>
                         </div>
                         <div className="references">
-                            <a href="/files/22.pdf" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
+                            <a href="/article/22" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
                         </div>
                     </div>
                     <div className="articleVariation-card">
@@ -106,7 +106,7 @@ export default function SecondVariation() {
                             <p>187-192</p>
                         </div>
                         <div className="references">
-                            <a href="/files/23.pdf" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
+                            <a href="/article/23" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
                         </div>
                     </div>
                     <div className="articleVariation-card">
@@ -116,7 +116,7 @@ export default function SecondVariation() {
                             <p>193-200</p>
                         </div>
                         <div className="references">
-                            <a href="/files/24.pdf" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
+                            <a href="/article/24" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
                         </div>
                     </div>
                     <div className="articleVariation-card">
@@ -126,7 +126,7 @@ export default function SecondVariation() {
                             <p>201-206</p>
                         </div>
                         <div className="references">
-                            <a href="/files/25.pdf" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
+                            <a href="/article/25" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
                         </div>
                     </div>
                     <div className="articleVariation-card">
@@ -136,7 +136,7 @@ export default function SecondVariation() {
                             <p>207-214</p>
                         </div>
                         <div className="references">
-                            <a href="/files/26.pdf" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
+                            <a href="/article/26" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
                         </div>
                     </div>
                     <div className="articleVariation-card">
@@ -146,7 +146,7 @@ export default function SecondVariation() {
                             <p>215-220</p>
                         </div>
                         <div className="references">
-                            <a href="/files/27.pdf" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
+                            <a href="/article/27" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
                         </div>
                     </div>
                     <div className="articleVariation-card">
@@ -156,7 +156,7 @@ export default function SecondVariation() {
                             <p>221-226</p>
                         </div>
                         <div className="references">
-                            <a href="/files/28.pdf" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
+                            <a href="/article/28" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
                         </div>
                     </div>
                     <div className="articleVariation-card">
@@ -166,7 +166,7 @@ export default function SecondVariation() {
                             <p>227-232</p>
                         </div>
                         <div className="references">
-                            <a href="/files/29.pdf" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
+                            <a href="/article/29" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
                         </div>
                     </div>
                     <div className="articleVariation-card">
@@ -176,7 +176,7 @@ export default function SecondVariation() {
                             <p>233-238</p>
                         </div>
                         <div className="references">
-                            <a href="/files/30.pdf" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
+                            <a href="/article/30" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
                         </div>
                     </div>
                     <div className="articleVariation-card">
@@ -186,7 +186,7 @@ export default function SecondVariation() {
                             <p>239-246</p>
                         </div>
                         <div className="references">
-                            <a href="/files/31.pdf" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
+                            <a href="/article/31" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
                         </div>
                     </div>
                     <div className="articleVariation-card">
@@ -196,7 +196,7 @@ export default function SecondVariation() {
                             <p>247-254</p>
                         </div>
                         <div className="references">
-                            <a href="/files/32.pdf" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
+                            <a href="/article/32" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
                         </div>
                     </div>
                     <div className="articleVariation-card">
@@ -206,7 +206,7 @@ export default function SecondVariation() {
                             <p>255-263</p>
                         </div>
                         <div className="references">
-                            <a href="/files/33.pdf" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
+                            <a href="/article/33" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
                         </div>
                     </div>
                 </div>

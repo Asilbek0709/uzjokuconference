@@ -1,13 +1,6 @@
-module.exports = {
-  output: 'standalone',
-}
-
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  output: 'export',
-  images: {
-    unoptimized: true,
-  },
+  output: "export", // это заменяет устаревший next export
 };
 
 module.exports = nextConfig;

@@ -15,7 +15,7 @@ export default function FifthVariation() {
                             <p>645-653</p>
                         </div>
                         <div className="references">
-                            <a href="/files/82.pdf" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
+                            <a href="/article/82" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
                         </div>
                     </div>
                     <div className="articleVariation-card">
@@ -25,7 +25,7 @@ export default function FifthVariation() {
                             <p>654-660</p>
                         </div>
                         <div className="references">
-                            <a href="/files/83.pdf" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
+                            <a href="/article/83" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
                         </div>
                     </div>
                     <div className="articleVariation-card">
@@ -35,7 +35,7 @@ export default function FifthVariation() {
                             <p>661-668</p>
                         </div>
                         <div className="references">
-                            <a href="/files/84.pdf" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
+                            <a href="/article/84" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
                         </div>
                     </div>
                     <div className="articleVariation-card">
@@ -45,7 +45,7 @@ export default function FifthVariation() {
                             <p>669-675</p>
                         </div>
                         <div className="references">
-                            <a href="/files/85.pdf" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
+                            <a href="/article/85" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
                         </div>
                     </div>
                     <div className="articleVariation-card">
@@ -55,7 +55,7 @@ export default function FifthVariation() {
                             <p>676-682</p>
                         </div>
                         <div className="references">
-                            <a href="/files/86.pdf" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
+                            <a href="/article/86" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
                         </div>
                     </div>
                     <div className="articleVariation-card">
@@ -65,7 +65,7 @@ export default function FifthVariation() {
                             <p>683-691</p>
                         </div>
                         <div className="references">
-                            <a href="/files/87.pdf" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
+                            <a href="/article/87" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
                         </div>
                     </div>
                     <div className="articleVariation-card">
@@ -75,7 +75,7 @@ export default function FifthVariation() {
                             <p>692-697</p>
                         </div>
                         <div className="references">
-                            <a href="/files/88.pdf" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
+                            <a href="/article/88" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
                         </div>
                     </div>
                     <div className="articleVariation-card">
@@ -85,7 +85,7 @@ export default function FifthVariation() {
                             <p>698-706</p>
                         </div>
                         <div className="references">
-                            <a href="/files/89.pdf" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
+                            <a href="/article/89" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
                         </div>
                     </div>
                     <div className="articleVariation-card">
@@ -95,7 +95,7 @@ export default function FifthVariation() {
                             <p>707-712</p>
                         </div>
                         <div className="references">
-                            <a href="/files/90.pdf" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
+                            <a href="/article/90" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
                         </div>
                     </div>
                 </div>

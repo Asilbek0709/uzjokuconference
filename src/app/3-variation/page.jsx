@@ -16,7 +16,7 @@ export default function ThirdVariation() {
                             <p>264-273</p>
                         </div>
                         <div className="references">
-                            <a href="/files/34.pdf" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
+                            <a href="/article/34" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
                         </div>
                     </div>
                     <div className="articleVariation-card">
@@ -26,7 +26,7 @@ export default function ThirdVariation() {
                             <p>274-280</p>
                         </div>
                         <div className="references">
-                            <a href="/files/35.pdf" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
+                            <a href="/article/35" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
                         </div>
                     </div>
                     <div className="articleVariation-card">
@@ -36,7 +36,7 @@ export default function ThirdVariation() {
                             <p>281-286</p>
                         </div>
                         <div className="references">
-                            <a href="/files/36.pdf" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
+                            <a href="/article/36" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
                         </div>
                     </div>
                     <div className="articleVariation-card">
@@ -46,7 +46,7 @@ export default function ThirdVariation() {
                             <p>287-292</p>
                         </div>
                         <div className="references">
-                            <a href="/files/37.pdf" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
+                            <a href="/article/37" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
                         </div>
                     </div>
                     <div className="articleVariation-card">
@@ -56,7 +56,7 @@ export default function ThirdVariation() {
                             <p>293-301</p>
                         </div>
                         <div className="references">
-                            <a href="/files/38.pdf" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
+                            <a href="/article/38" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
                         </div>
                     </div>
                     <div className="articleVariation-card">
@@ -66,7 +66,7 @@ export default function ThirdVariation() {
                             <p>302-308</p>
                         </div>
                         <div className="references">
-                            <a href="/files/39.pdf" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
+                            <a href="/article/39" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
                         </div>
                     </div>
                 </div>
