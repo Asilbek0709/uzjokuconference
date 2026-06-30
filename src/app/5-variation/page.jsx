@@ -118,6 +118,7 @@ export default function FifthVariation() {
                             <a href="/article/92" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
                         </div>
                     </div>
+
                 </div>
             </div> 
         </section>
