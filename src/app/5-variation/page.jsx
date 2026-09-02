@@ -118,7 +118,16 @@ export default function FifthVariation() {
                             <a href="/article/92" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
                         </div>
                     </div>
-
+                    <div className="articleVariation-card">
+                        <div className="article-info">
+                            <h4>ЁШЛАРНИНГ ҲУҚУҚИЙ МАДАНИЯТИНИ ОШИРИШ: МУАММО ВА ЕЧИМЛАР</h4>
+                            <h5>Ахмедова Жасмина Кахрамон қизи</h5>
+                            <p>728-732</p>
+                        </div>
+                        <div className="references">
+                            <a href="/article/93" target="_blank" rel="noopener norefferer" className="reference">O`qish</a>
+                        </div>
+                    </div>
                 </div>
             </div> 
         </section>

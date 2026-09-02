@@ -1,6 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  output: "export", // это заменяет устаревший next export
+  output: "export",
+  trailingSlash: true, // это заменяет устаревший next export
 };
 
 module.exports = nextConfig;
